@@ -1,1 +1,1 @@
-### 20160726 -- GeoDjango
+## 20160726 &mdash; GeoDjango
