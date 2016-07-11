@@ -1,1 +1,1 @@
-### 20160712 -- CartoDB.js
+### 20160712 &mdash; CartoDB.js
