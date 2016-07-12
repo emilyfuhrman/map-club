@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Example 01 | CARTO.js</title>
+    <title>Example 02 | CARTO.js</title>
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
     <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
     <link rel="shortcut icon" href="http://cartodb.com/assets/favicon.ico" />
@@ -23,15 +23,15 @@
 
     <script>
       function main() {
-        cartodb.createVis('map', 'http://documentation.cartodb.com/api/v2/viz/2b13c956-e7c1-11e2-806b-5404a6a683d5/viz.json', {
+        cartodb.createVis('map', 'https://columbialibraries.carto.com/u/emilyfuhrman/api/v2/viz/e54891e8-fd95-11e5-87d5-0e674067d321/viz.json', {
             shareable: true,
             title: true,
             description: true,
             search: true,
             tiles_loader: true,
-            center_lat: 0,
-            center_lon: 0,
-            zoom: 2
+            center_lat: 40.7743817,
+            center_lon: -73.9692331,
+            zoom: 12
         })
         .done(function(vis, layers) {
           // layer 0 is the base layer, layer 1 is cartodb layer
