@@ -6,6 +6,6 @@ This session focuses on [CARTO.js](https://carto.com/docs/carto-engine/carto-js
 * [Getting started](https://carto.com/docs/carto-engine/carto-js/getting-started/)
 
 #### Examples
-
+ 
 * [Example 01](https://github.com/emilyfuhrman/map-club/tree/master/Session_01/Example_01)
 * [Example 02](https://github.com/emilyfuhrman/map-club/tree/master/Session_01/Example_02)
