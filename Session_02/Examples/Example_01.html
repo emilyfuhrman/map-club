@@ -1,0 +1,78 @@
+<html>
+    <head>
+        <!--<script src="http://kartograph.org/js/jquery-1.10.2.min.js"></script>
+        <script src="http://kartograph.org/js/raphael-2.1.0.min.js"></script>
+        <script src="http://kartograph.org/js/kartograph.min.js"></script>-->
+        <link rel="stylesheet" type="text/css" href="http://vumaasha.github.io/codehook/css/jquery.qtip.css" />
+		<script type="text/javascript" src="http://vumaasha.github.io/codehook/resources/js/jquery-1.10.2.min.js"></script>
+		<script type="text/javascript" src="http://vumaasha.github.io/codehook/resources/js/raphael-2.1.0.min.js"></script>
+		<script type="text/javascript" src="http://vumaasha.github.io/codehook/resources/js/jquery.qtip.min.js"></script>
+		<script type="text/javascript" src="http://vumaasha.github.io/codehook/resources/js/chroma.min.js"></script>
+		<script type="text/javascript" src="http://vumaasha.github.io/codehook/resources/js/kartograph.min.js"></script>
+    </head>
+    <body>
+        <div id="map"></div>
+        <script type="text/javascript">
+		    $(function() {
+		        var map,
+		            colorscale,
+		            countryPopularity = {};
+		        $.fn.qtip.defaults.style.classes = 'ui-tooltip-bootstrap';
+		        $.fn.qtip.defaults.style.def = false;
+		        /*
+		        * Now lets get the data
+		        */
+		        $.getJSON('http://vumaasha.github.io/codehook/resources/kartograph/popularity.json', function(countryPopularity) {
+		            /*
+		            * once we have data, get the svg
+		            */
+		            $.get('http://vumaasha.github.io/codehook/resources/kartograph/world.svg', function(svg) {
+		                var div = $('#map');
+		                // declare the dimensions of the map
+		                var map = kartograph.map(div, 640, 420),
+		                /*
+		                * choose the color scale for the choropleth,
+		                * consult chroma.js api docs for more details
+		                */
+		                color = chroma.scale('Greens').
+		                        domain(countryPopularity,5,'quantiles','popularity');
+		                map.setMap(svg);
+		                /* 
+		                * now add the layer "world" which contains the paths for the country 
+		                * boundaries, the map will appear empty till this is added
+		                */
+		                map.addLayer('world', {
+		                    styles: {
+		                        'stroke-width': 0.7,
+		                        /* 
+		                        * pass the color scale function to the fill and stroke attribute
+		                        */
+		                        fill: function(d) { 
+		                            return color(countryPopularity[d.iso3]?
+		                                         countryPopularity[d.iso3].popularity:
+		                                         0); 
+		                            },
+		                        stroke: function(d) {
+		                            return color(countryPopularity[d.iso3]?
+		                                         countryPopularity[d.iso3].popularity
+		                                         :0).darker();
+		                          }
+		                    },
+		                    /* 
+		                    * set tooltip content
+		                    */
+		                    tooltips: function(d) {
+		                        return [d.iso3, 
+		                                countryPopularity[d.iso3]?
+		                                    countryPopularity[d.iso3].popularity:
+		                                    0
+		                                ];
+		                    }
+		                });
+		            });
+		        });
+
+		    });
+		</script>
+    </body>
+</html>
