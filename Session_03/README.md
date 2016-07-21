@@ -1,3 +1,3 @@
-# 20160726 &mdash; GeoDjango
+# 20160726 &mdash; QGIS
 
-This session explores [GeoDjango](http://geodjango.org/), a geographic web framework that facilitates the construction of GIS web applications. 
+This session explores [QGIS](http://www.qgis.org/en/site/), a free and open source geographic information system. 

@@ -8,7 +8,7 @@ This repository serves as a resource for materials covered in sessions 1-5.
 
 **[Session 02 &mdash; Kartograph](https://github.com/emilyfuhrman/map-club/blob/master/Session_02)**
 
-**[Session 03 &mdash; GeoDjango](https://github.com/emilyfuhrman/map-club/blob/master/Session_03)**
+**[Session 03 &mdash; QGIS](https://github.com/emilyfuhrman/map-club/blob/master/Session_03)**
 
 **[Session 04 &mdash; Mapzen](https://github.com/emilyfuhrman/map-club/blob/master/Session_04)**
 
