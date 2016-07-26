@@ -2,7 +2,7 @@
 
 This session explores [QGIS](http://www.qgis.org/en/site/), a free and open source geographic information system. 
 
-### Creating a thematic population map of the U.S.
+### Tutorial &mdash; Creating a thematic population map of the U.S.
 
 #### Datasets
 This tutorial will incorporate two datasets, one provided by Natural Earth and one provided by the U.S. Census. First, download the current administrative boundaries of the U.S., listed below:
