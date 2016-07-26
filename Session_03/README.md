@@ -158,6 +158,3 @@ For our final print export, we will be creating a choropleth-_style_ map that re
 Once you are finished with this step, adjust colors and strokes as needed. Finally, create a new print composer. Add a legend, title, explanation, source, and scale bar. Add new layers for Alaska and Hawaii to approach a more 'stereotypical' Albers view, and make sure to include a scale bar for each one so as to be transparent about any distortion. Export your map as a PDF file. Your final map should look something like this:
 
 ![Final Map Example](https://github.com/emilyfuhrman/map-club/blob/master/Session_03/Images/23_Final_Map_Example.png)
-
-#### Additional notes
-[Here](https://medium.com/@joshuatauberer/how-that-map-you-saw-on-538-under-represents-minorities-by-half-and-other-reasons-to-consider-a-4a98f89cbbb1#.ih16rv26m) is an excellent piece on how choropleth maps underrepresent minorities.
