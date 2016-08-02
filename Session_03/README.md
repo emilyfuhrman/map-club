@@ -1,8 +1,9 @@
 # 20160726 &mdash; QGIS
 
-This session explores [QGIS](http://www.qgis.org/en/site/), a free and open source geographic information system. 
+This session explores [QGIS](http://www.qgis.org/en/site/), a free and open source geographic information system. QGIS is a versatile tool for analyzing, manipulating, and exporting GIS data. In contrast to previous sessions that take a more experimental approach to learning new software, this session will be structured around a guided tutorial, below.
 
-### Tutorial &mdash; Creating a thematic population map of the U.S.
+## Tutorial
+This tutorial walks through the process of creating a thematic population map of the U.S. with a focus on exploring different projections in QGIS. As noted below, visualizing raw counts in this manner is considered bad practice. In the interest of time, and to minimize data processing, use these steps as a starting point for creating a proper choropleth map of U.S. population density.
 
 #### Datasets
 This tutorial will incorporate two datasets, one provided by Natural Earth and one provided by the U.S. Census. First, download the current administrative boundaries of the U.S., listed below:
