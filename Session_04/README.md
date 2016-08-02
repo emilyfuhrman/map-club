@@ -1,6 +1,6 @@
 # 20160802 &mdash; Mapzen
 
-This session focuses on [Mapzen](https://mapzen.com/), an open, sustainable, and accessible mapping platform &mdash; specifically [Tangram](https://mapzen.com/products/tangram/), Mapzen's open-source renderer that allows intricate control over the design of web-based interactive maps. Mapzen supplies some helpful introductory examples, linked below.
+This session focuses on [Mapzen](https://mapzen.com/), an open, sustainable, and accessible mapping platform. Specifically, it explores [Tangram](https://mapzen.com/products/tangram/), an open-source renderer that allows intricate control over the design of web-based interactive maps. Mapzen supplies some helpful introductory examples, linked below.
 
 #### Resources
 
