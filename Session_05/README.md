@@ -7,4 +7,5 @@ In order to explore D3, you need to be able to serve files locally. Do this eith
 If you do not already have a favorite text editor, go ahead and download [Sublime](https://www.sublimetext.com/). 
 
 #### Resources
-* [D3 4.0 API Reference](https://github.com/d3/d3/wiki/geo-projections)
+* [D3.js](https://d3js.org/)
+* [D3 4.0 API Reference &mdash; Geographies](https://github.com/d3/d3/blob/master/API.md#geographies-d3-geo)
