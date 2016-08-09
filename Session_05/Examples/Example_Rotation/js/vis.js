@@ -11,7 +11,8 @@ var projection = d3.geo.gnomonic()
 var projection_02 = d3.geo.orthographic()
   .clipAngle(90)
   .scale(335)
-  .translate([width/2, height/2]);  
+  .translate([width/2, height/2])
+  .precision(.1);  
 
 var projection_03 = d3.geo.stereographic()
   .clipAngle(106.5)
