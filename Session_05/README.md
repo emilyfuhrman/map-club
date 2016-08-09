@@ -10,3 +10,8 @@ If you do not already have a favorite text editor, go ahead and download [Sublim
 * [D3.js](https://d3js.org/)
 * [D3 4.0 API Reference &mdash; Geographies](https://github.com/d3/d3/blob/master/API.md#geographies-d3-geo)
 * [D3 3.x API Reference &mdash; Geographies](https://github.com/d3/d3-3.x-api-reference/blob/master/Geo-Projections.md)
+
+#### Examples
+* [Albers Equal-Area Conic](http://bl.ocks.org/mbostock/3734308)
+* [U.S. Topojson](http://bl.ocks.org/mbostock/4090848)
+* [Antimeridian Cutting](http://bl.ocks.org/mbostock/3788999)
