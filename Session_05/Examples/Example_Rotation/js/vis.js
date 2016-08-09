@@ -44,12 +44,15 @@ var r2 = d3.scale.linear()
 
 svg.on('mousemove',function(){
   var p = d3.mouse(this);
-  //projection.rotate([r2(p[0]),r1(p[1])]);
+  
+  projection.rotate([r2(p[0]),r1(p[1])]);
   projection_02.rotate([r1(p[0]),r2(p[1])]);
   projection_03.rotate([r1(p[0]),r2(p[1])]);
-  //countries.attr('d',path);
-  land.attr('d',path_02);
+
+
+  countries.attr('d',path);
   countries_02.attr('d',path_03);
+  land.attr('d',path_02);
 });
 
 d3.json('data/world-110m.json',function(e,world){
