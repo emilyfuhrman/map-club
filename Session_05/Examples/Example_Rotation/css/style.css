@@ -19,12 +19,20 @@ path {
 	}
 
 .land {
-	fill:none;
+	fill:blue;
+	fill-opacity:0.05;
 	stroke:blue;
-	stroke-width:1.25;
+	stroke-width:0.5;
 	}
 
 .countries {
 	fill:red;
 	stroke:#fff;
+	}
+
+.countries_02 {
+	fill:black;
+	fill-opacity:0;
+	stroke:black;
+	stroke-width:0.5;
 	}
