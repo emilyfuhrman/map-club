@@ -12,6 +12,7 @@ If you do not already have a favorite text editor, go ahead and download [Sublim
 * [D3 3.x API Reference &mdash; Geographies](https://github.com/d3/d3-3.x-api-reference/blob/master/Geo-Projections.md)
 
 #### Examples
+* [Example 01](https://github.com/emilyfuhrman/map-club/tree/master/Session_05/Examples/Example_01)
 * [Albers Equal-Area Conic](http://bl.ocks.org/mbostock/3734308)
 * [U.S. Topojson](http://bl.ocks.org/mbostock/4090848)
 * [Antimeridian Cutting](http://bl.ocks.org/mbostock/3788999)
