@@ -1,11 +1,11 @@
 var width = 960,
     height = 500;
 
-var _x = d3.scale.linear()
+var λ = d3.scale.linear()
     .domain([0, width])
     .range([-180, 180]);
 
-var _y = d3.scale.linear()
+var φ = d3.scale.linear()
     .domain([0, height])
     .range([90, -90]);
 
@@ -38,7 +38,7 @@ d3.json("data/world-110m.json", function(error, world) {
 
   function move() {
     var p = touch ? d3.touches(this)[0] : d3.mouse(this);
-    projection.rotate([_x(p[0]), _y(p[1])]), draw();
+    projection.rotate([λ(p[0]), φ(p[1])]), draw();
     d3.event.preventDefault();
   }
 
