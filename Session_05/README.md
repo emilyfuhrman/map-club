@@ -9,3 +9,4 @@ If you do not already have a favorite text editor, go ahead and download [Sublim
 #### Resources
 * [D3.js](https://d3js.org/)
 * [D3 4.0 API Reference &mdash; Geographies](https://github.com/d3/d3/blob/master/API.md#geographies-d3-geo)
+* [D3 3.x API Reference &mdash; Geographies](https://github.com/d3/d3-3.x-api-reference/blob/master/Geo-Projections.md)
