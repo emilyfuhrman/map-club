@@ -13,6 +13,7 @@ If you do not already have a favorite text editor, go ahead and download [Sublim
 
 #### Examples
 * [Example 01](https://github.com/emilyfuhrman/map-club/tree/master/Session_05/Examples/Example_01)
+* [Example 02](https://github.com/emilyfuhrman/map-club/tree/master/Session_05/Examples/Example_02)
 * [Albers Equal-Area Conic](http://bl.ocks.org/mbostock/3734308)
 * [U.S. Topojson](http://bl.ocks.org/mbostock/4090848)
 * [Antimeridian Cutting](http://bl.ocks.org/mbostock/3788999)
