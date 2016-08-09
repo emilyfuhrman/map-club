@@ -16,13 +16,13 @@ body {
 
 path {
 	shape-rendering:geometricPrecision;
+	stroke-width:1;
 	}
 
 .land {
 	fill:blue;
 	fill-opacity:0.05;
 	stroke:blue;
-	stroke-width:0.5;
 	}
 
 .countries {
@@ -34,5 +34,4 @@ path {
 	fill:black;
 	fill-opacity:0;
 	stroke:black;
-	stroke-width:0.5;
 	}
