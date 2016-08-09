@@ -10,6 +10,7 @@ If you do not already have a favorite text editor, go ahead and download [Sublim
 * [D3.js](https://d3js.org/)
 * [D3 4.0 API Reference &mdash; Geographies](https://github.com/d3/d3/blob/master/API.md#geographies-d3-geo)
 * [D3 3.x API Reference &mdash; Geographies](https://github.com/d3/d3-3.x-api-reference/blob/master/Geo-Projections.md)
+* [Topojson](https://github.com/mbostock/topojson)
 
 #### Examples
 * [Example 01](https://github.com/emilyfuhrman/map-club/tree/master/Session_05/Examples/Example_01)
