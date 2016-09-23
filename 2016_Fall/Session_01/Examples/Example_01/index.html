@@ -14,15 +14,6 @@
 
 	<script src="js/libs/cartagen.js" type="text/javascript" charset="utf-8"></script>
 	<script type="text/javascript" charset="utf-8">
-
-        var layers = new Hash()
-        function handleChange(cb) {
-            if(cb.checked)
-                layers.set(cb.value, cb.checked)
-            else
-                layers.unset(cb.value)
-            Cartagen.set_layers(layers.keys())
-        }
         
         Cartagen.setup({
 			stylesheet: "style.gss",
@@ -34,11 +25,12 @@
 				"data/rome/primary.js",
 				"data/rome/secondary.js",
 				"data/rome/building.js",
-				"data/rome/area.js"
+				"data/rome/area.js",
 			],
 			lat: 41.891,
 			lng: 12.4902,
-            layered_map: true
+            layered_map: true,
+            //debug: true
 		});
 	</script>
 </head>

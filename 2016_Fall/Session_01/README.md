@@ -6,6 +6,7 @@ This session focuses on [Cartagen](http://cartagen.org/), a vector-based framewo
 
 * [Cartagen Github](https://github.com/jywarren/cartagen/)
 * [Cartagen Wiki](https://github.com/jywarren/cartagen/wiki)
+	* [Customizing Cartagen](https://github.com/jywarren/cartagen/wiki/CustomizingCartagen)
 	* [GSS Usage](https://github.com/jywarren/cartagen/wiki/GssUsage)
 	* [Importing OSM data](https://github.com/jywarren/cartagen/wiki/ImportingData)
 
