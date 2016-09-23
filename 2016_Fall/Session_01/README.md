@@ -13,3 +13,4 @@ This session focuses on [Cartagen](http://cartagen.org/), a vector-based framewo
 #### Examples
 
 * [Example 01](https://github.com/emilyfuhrman/map-club/tree/master/2016_Fall/Session_01/Examples/Example_01)
+* [Example 01 (ZIP)](https://github.com/emilyfuhrman/map-club/tree/master/2016_Fall/Session_01/Examples/Example_01.zip)
