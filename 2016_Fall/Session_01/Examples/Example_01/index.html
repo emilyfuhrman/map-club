@@ -1,0 +1,55 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<!-- <meta name="viewport" content="width=320; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;"/> -->
+	
+	<title>Cartagen</title>
+	
+	<link rel="stylesheet" href="style.css" type="text/css" media="screen" title="no title" charset="utf-8">
+
+	<script src="js/libs/cartagen.js" type="text/javascript" charset="utf-8"></script>
+	<script type="text/javascript" charset="utf-8">
+
+        var layers = new Hash()
+        function handleChange(cb) {
+            if(cb.checked)
+                layers.set(cb.value, cb.checked)
+            else
+                layers.unset(cb.value)
+            Cartagen.set_layers(layers.keys())
+        }
+        
+        Cartagen.setup({
+			stylesheet: "style.gss",
+			static_map: true,
+			static_map_layers: [
+				"data/rome/park.js",
+				"data/rome/rail.js",
+				"data/rome/waterway.js",
+				"data/rome/primary.js",
+				"data/rome/secondary.js",
+				"data/rome/building.js",
+				"data/rome/area.js"
+			],
+			lat: 41.891,
+			lng: 12.4902,
+            layered_map: true
+		});
+	</script>
+</head>
+<body>
+
+<div id="browsers" style="display:none;">
+	<h3>WHOOPS</h3>
+	<p>Cartagen is built on standards-compliant HTML 5 and Canvas, but is in beta stage right now. It works best in Firefox, Chrome, or Safari, but IE8/9, Mobile Safari, and Android would not be hard to implement.</p>
+</div>
+
+<div id="canvas"></div>
+
+</body>
+</html>
