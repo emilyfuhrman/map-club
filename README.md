@@ -34,7 +34,6 @@ _**[Session 06 &mdash; WORKSHOP &mdash; Introduction to QGIS](https://github.com
 
 _**[Session 09 &mdash; WORKSHOP &mdash; D3.js](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_09)**_
 
----
 
 ![Summer 2016](https://github.com/emilyfuhrman/map-club/blob/master/Assets/Banner_2016_Summer.png)
 
