@@ -4,6 +4,7 @@ This session focuses on [Cartagen](http://cartagen.org/), a vector-based framewo
 
 #### Resources
 
+* [Cartagen Client Edition (Updated)](https://code.google.com/archive/p/cartagen/downloads)
 * [Cartagen Github](https://github.com/jywarren/cartagen/)
 * [Cartagen Wiki](https://github.com/jywarren/cartagen/wiki)
 	* [Customizing Cartagen](https://github.com/jywarren/cartagen/wiki/CustomizingCartagen)
