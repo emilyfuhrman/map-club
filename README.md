@@ -12,7 +12,7 @@ If you do not already have a favorite text editor, go ahead and download [Sublim
 
 For Map Club sessions focused on web-based interactive mapping, you need to run a local server. You can do this either by running Python's [SimpleHTTPServer](https://docs.python.org/2/library/simplehttpserver.html) (see [this](http://stackoverflow.com/questions/7943751/what-is-the-python3-equivalent-of-python-m-simplehttpserver) StackOverflow question if you are using Python 3), or by downloading [MAMP](https://www.mamp.info/en/). 
 
-## Resources
+## Fall 2016 Resources
 
 ![Fall 2016](https://github.com/emilyfuhrman/map-club/blob/master/Assets/Banner_2016_Fall.png)
 
@@ -34,6 +34,7 @@ _**[Session 06 &mdash; WORKSHOP &mdash; Introduction to QGIS](https://github.com
 
 _**[Session 09 &mdash; WORKSHOP &mdash; D3.js](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_09)**_
 
+## Summer 2016 Resources
 
 ![Summer 2016](https://github.com/emilyfuhrman/map-club/blob/master/Assets/Banner_2016_Summer.png)
 
