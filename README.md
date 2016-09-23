@@ -10,7 +10,7 @@ If you do not already have a favorite text editor, go ahead and download [Sublim
 
 #### Setting up a local server
 
-For Map Club sessions focused on web-based interactive mapping, you will need to be able to serve files locally. You can do this either by running Python's [SimpleHTTPServer](https://docs.python.org/2/library/simplehttpserver.html) (see [this](http://stackoverflow.com/questions/7943751/what-is-the-python3-equivalent-of-python-m-simplehttpserver) StackOverflow question if you are using Python 3), or by downloading [MAMP](https://www.mamp.info/en/). 
+For Map Club sessions focused on web-based interactive mapping, you will need to be able to serve files locally. Do this either by running Python's [SimpleHTTPServer](https://docs.python.org/2/library/simplehttpserver.html) (see [this](http://stackoverflow.com/questions/7943751/what-is-the-python3-equivalent-of-python-m-simplehttpserver) StackOverflow question if you are using Python 3), or by downloading [MAMP](https://www.mamp.info/en/). 
 
 ## Resources
 
