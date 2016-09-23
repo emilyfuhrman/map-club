@@ -16,8 +16,6 @@ For Map Club sessions focused on web-based interactive mapping, you need to run 
 
 ![Fall 2016](https://github.com/emilyfuhrman/map-club/blob/master/Assets/Banner_2016_Fall.png)
 
-#### 2016 &mdash; Fall
-
 This repository serves as a resource for materials covered in Fall 2016.
 
 **[Session 01 &mdash; Dynamic Mapping with Cartagen](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_01)**
@@ -39,8 +37,6 @@ _**[Session 06 &mdash; WORKSHOP &mdash; Introduction to QGIS](https://github.com
 _**[Session 09 &mdash; WORKSHOP &mdash; D3.js](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_09)**_
 
 ![Summer 2016](https://github.com/emilyfuhrman/map-club/blob/master/Assets/Banner_2016_Summer.png)
-
-#### 2016 &mdash; Summer
 
 This repository serves as a resource for materials covered in Summer 2016.
 
