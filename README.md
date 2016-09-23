@@ -1,6 +1,6 @@
 # Map Club
 
-_Fast-paced hack sessions focused on the rapid acquisition of skills._
+#### Map Club is a series of fast-paced hack sessions focused on the rapid acquisition of skills.
 
 ## 2016 &mdash; Fall
 
