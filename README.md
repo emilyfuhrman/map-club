@@ -14,6 +14,8 @@ For Map Club sessions focused on web-based interactive mapping, you need to run 
 
 ## Resources
 
+![Fall 2016](https://github.com/emilyfuhrman/map-club/blob/master/Assets/Banner_2016_Fall.png)
+
 #### 2016 &mdash; Fall
 
 This repository serves as a resource for materials covered in Fall 2016.
@@ -35,6 +37,8 @@ _**[Session 06 &mdash; WORKSHOP &mdash; Introduction to QGIS](https://github.com
 **[Session 08 &mdash; Geospatial Analysis with Turf.js](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_08)**
 
 _**[Session 09 &mdash; WORKSHOP &mdash; D3.js](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_09)**_
+
+![Summer 2016](https://github.com/emilyfuhrman/map-club/blob/master/Assets/Banner_2016_Summer.png)
 
 #### 2016 &mdash; Summer
 
