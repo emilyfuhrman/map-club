@@ -25,4 +25,4 @@ This session focuses on [Kartograph](http://kartograph.org/), a lightweight fr
 
 #### Examples
 
-* [Example 01](https://github.com/emilyfuhrman/map-club/tree/master/Session_02/Examples/Example_01.html)
+* [Example 01](https://github.com/emilyfuhrman/map-club/tree/master/2016_Summer/Session_02/Examples/Example_01.html)

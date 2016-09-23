@@ -7,5 +7,5 @@ This session focuses on [CARTO.js](https://carto.com/docs/carto-engine/carto-js
 
 #### Examples
  
-* [Example 01](https://github.com/emilyfuhrman/map-club/tree/master/Session_01/Examples/Example_01.html)
-* [Example 02](https://github.com/emilyfuhrman/map-club/tree/master/Session_01/Examples/Example_02.html)
+* [Example 01](https://github.com/emilyfuhrman/map-club/tree/master/2016_Summer/Session_01/Examples/Example_01.html)
+* [Example 02](https://github.com/emilyfuhrman/map-club/tree/master/2016_Summer/Session_01/Examples/Example_02.html)
