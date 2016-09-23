@@ -2,9 +2,15 @@
 
 Map Club is a series of fast-paced hack sessions focused on **play, exploration, and the rapid acquisition of skills**. Each meeting provides an informal and fun opportunity for the exploration of a web-based library or framework. Sessions are loosely divided into three phases: background and setup, self-paced making, and sharing.
 
-## Setting up a local server
+## Preparation
 
+### Downloading a text editor
 
+If you do not already have a favorite text editor, go ahead and download [Sublime](https://www.sublimetext.com/). 
+
+### Setting up a local server
+
+For Map Club sessions focused on web-based interactive mapping, you need to run a local server. You can do this either by running Python's [SimpleHTTPServer](https://docs.python.org/2/library/simplehttpserver.html) (see [this](http://stackoverflow.com/questions/7943751/what-is-the-python3-equivalent-of-python-m-simplehttpserver) StackOverflow question if you are using Python 3), or by downloading [MAMP](https://www.mamp.info/en/). 
 
 ### 2016 &mdash; Fall
 
