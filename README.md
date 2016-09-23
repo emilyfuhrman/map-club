@@ -2,6 +2,10 @@
 
 Map Club is a series of fast-paced hack sessions focused on **play, exploration, and the rapid acquisition of skills**. Each meeting provides an informal and fun opportunity for the exploration of a web-based library or framework. Sessions are loosely divided into three phases: background and setup, self-paced making, and sharing.
 
+## Setting up a local server
+
+
+
 ### 2016 &mdash; Fall
 
 This repository serves as a resource for materials covered in Fall 2016.
@@ -28,12 +32,12 @@ _**[Session 09 &mdash; WORKSHOP &mdash; D3.js](https://github.com/emilyfuhrman/m
 
 This repository serves as a resource for materials covered in Summer 2016.
 
-**[Session 01 &mdash; CARTO.js](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_01)**
+**[Session 01 &mdash; CARTO.js](https://github.com/emilyfuhrman/map-club/blob/master/2016_Summer/Session_01)**
 
-**[Session 02 &mdash; Kartograph](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_02)**
+**[Session 02 &mdash; Kartograph](https://github.com/emilyfuhrman/map-club/blob/master/2016_Summer/Session_02)**
 
-**[Session 03 &mdash; QGIS](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_03)**
+**[Session 03 &mdash; QGIS](https://github.com/emilyfuhrman/map-club/blob/master/2016_Summer/Session_03)**
 
-**[Session 04 &mdash; Mapzen](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_04)**
+**[Session 04 &mdash; Mapzen](https://github.com/emilyfuhrman/map-club/blob/master/2016_Summer/Session_04)**
 
-**[Session 05 &mdash; D3.js](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_05)**
+**[Session 05 &mdash; D3.js](https://github.com/emilyfuhrman/map-club/blob/master/2016_Summer/Session_05)**
