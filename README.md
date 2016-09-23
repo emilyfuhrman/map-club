@@ -1,8 +1,8 @@
 # Map Club
 
-#### Map Club is a series of fast-paced hack sessions focused on the rapid acquisition of skills. Each self-paced session provides an informal and fun opportunity for the exploration of a web-based library or framework. Sessions are loosely divided into three phases: background and setup, self-paced making, and sharing.
+Map Club is a series of fast-paced hack sessions focused on the rapid acquisition of skills. Each self-paced session provides an informal and fun opportunity for the exploration of a web-based library or framework. Sessions are loosely divided into three phases: background and setup, self-paced making, and sharing.
 
-## 2016 &mdash; Fall
+### 2016 &mdash; Fall
 
 This repository serves as a resource for materials covered in Fall 2016.
 
@@ -24,7 +24,7 @@ _**[Session 06 &mdash; WORKSHOP &mdash; Introduction to QGIS](https://github.com
 
 _**[Session 09 &mdash; WORKSHOP &mdash; D3.js](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_09)**_
 
-## 2016 &mdash; Summer
+### 2016 &mdash; Summer
 
 This repository serves as a resource for materials covered in Summer 2016.
 
