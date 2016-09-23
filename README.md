@@ -4,17 +4,17 @@ Map Club is a series of fast-paced hack sessions focused on **play, exploration,
 
 ## Preparation
 
-### Downloading a text editor
+#### Downloading a text editor
 
 If you do not already have a favorite text editor, go ahead and download [Sublime](https://www.sublimetext.com/). 
 
-### Setting up a local server
+#### Setting up a local server
 
 For Map Club sessions focused on web-based interactive mapping, you need to run a local server. You can do this either by running Python's [SimpleHTTPServer](https://docs.python.org/2/library/simplehttpserver.html) (see [this](http://stackoverflow.com/questions/7943751/what-is-the-python3-equivalent-of-python-m-simplehttpserver) StackOverflow question if you are using Python 3), or by downloading [MAMP](https://www.mamp.info/en/). 
 
 ## Resources
 
-### 2016 &mdash; Fall
+#### 2016 &mdash; Fall
 
 This repository serves as a resource for materials covered in Fall 2016.
 
@@ -36,7 +36,7 @@ _**[Session 06 &mdash; WORKSHOP &mdash; Introduction to QGIS](https://github.com
 
 _**[Session 09 &mdash; WORKSHOP &mdash; D3.js](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_09)**_
 
-### 2016 &mdash; Summer
+#### 2016 &mdash; Summer
 
 This repository serves as a resource for materials covered in Summer 2016.
 
