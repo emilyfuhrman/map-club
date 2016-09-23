@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<title>Cartagen</title>
+	<link rel="stylesheet" href="style.css" type="text/css" media="screen" title="no title" charset="utf-8">
+	<!--[if IE]><script type="text/javascript" src="cartagen/excanvas.js"></script><![endif]-->
+	<script src="cartagen/cartagen.js" type="text/javascript" charset="utf-8"></script>
+	<meta name="viewport" content="width=320; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;"/>
+	<script type="text/javascript" charset="utf-8">
+		Cartagen.setup({
+			zoom:0.4,
+			stylesheet: "samples/rome/style.gss",
+			static_map: true,
+			static_map_layers: [
+				"samples/rome/park.js",
+				"samples/rome/rail.js",
+				"samples/rome/waterway.js",
+				"samples/rome/primary.js",
+				"samples/rome/secondary.js",
+				"samples/rome/building.js",
+				"samples/rome/area.js",
+				// "more.json"
+			],
+			lat: 41.895,
+			lng: 12.5102,
+			// debug: true
+		})
+	</script>
+</head>
+<body>
+
+<div id="google" style="display:none;">Cartagen is a set of tools for mapping, enabling users to view and configure live streams of geographic data in a dynamic, personally relevant way. Today's mapping software is largely based on static data sets, and neither incorporates the time dimension in its display nor provides for real-time data streams. Cartagen helps users to analyze and view collected and shared geographic and temporal data from multiple sources.</div>
+
+<div id="browsers" style="display:none;">
+	<h3>WHOOPS</h3>
+	<p>Cartagen is built on standards-compliant HTML 5 and Canvas, but is in beta stage right now. It works best in Firefox, but IE8, Chrome, Safari, Mobile Safari, and Android are coming ASAP!</p>
+</div>
+<div id="test"></div>
+
+<canvas id="canvas" tabindex="5"></canvas>
+
+</body>
+</html>

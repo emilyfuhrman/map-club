@@ -1,0 +1,158 @@
+body: {
+	fillStyle: "white",
+	lineWidth: 0,
+	menu: {
+		"Edit GSS": Cartagen.show_gss_editor,
+		"Download Image": Cartagen.redirect_to_image,
+		"Download Data": Interface.download_bbox
+	}
+},
+node: {
+	fillStyle: "#ddd",
+	strokeStyle: "#090",
+	lineWidth: 0,
+	radius: 1
+},
+way: {
+	strokeStyle: "#ccc",
+	lineWidth: 2
+},
+island: {
+	strokeStyle: "#24a",
+	lineWidth: 1
+},
+relation: {
+	fillStyle: "#57d",
+	strokeStyle: "#24a",
+	lineWidth: 1,
+	pattern: "samples/rome/images/pattern-water.gif"
+},
+administrative: {
+	lineWidth: 1,
+	strokeStyle: "#D45023",
+	fillStyle: "rgba(0,0,0,0)",
+},
+leisure: {
+	fillStyle: "#2a2",
+	lineWidth: 1,
+	strokeStyle: "#181"
+},
+area: {
+	lineWidth: 1,
+	strokeStyle: "#4C6ACB",
+	fillStyle: "rgba(0,0,0,0)",
+	opacity: 0.4,
+	fontColor: "#444",
+},
+park: {
+	fillStyle: "#0000FF",
+	lineWidth: 0,
+	strokeStyle: "none",
+	fontSize: 12,
+	fontRotation: 'fixed',
+	opacity: 1
+},
+waterway: {
+	fillStyle: "#57d",
+	strokeStyle: "white",
+	lineWidth: 0,
+	pattern: "samples/rome/images/block.png"
+},
+water: {
+	strokeStyle: "white",
+	lineWidth: 0,
+	pattern: "samples/rome/images/pattern-water.gif"
+},
+highway: {
+	strokeStyle: "white",
+	lineWidth: 1,
+	outlineWidth: 0,
+	outlineColor: "white",
+	fontColor: "#333",
+	fontBackground: "white",
+	fontScale: "fixed"
+},
+primary: {
+	strokeStyle: "green",
+	lineWidth: function() {
+		if (this.tags.get('width')) return parseInt(this.tags.get('width'))*0.8
+		else return 1
+	}
+},
+secondary: {
+	strokeStyle: "#999",
+	lineWidth: function() {
+		if (this.tags.get('width')) return parseInt(this.tags.get('width'))*0.8
+		else return 1
+	}
+},
+footway: {
+	strokeStyle: "#842",
+	lineWidth: function() {
+		if (this.tags.get('width')) return parseInt(this.tags.get('width'))*1000
+		else return 1
+	}
+},
+pedestrian: {
+	strokeStyle: "black",
+	fontBackground: "rgba(1,1,1,0)",
+	fontColor: "#444",
+	lineWidth: function() {
+		if (this.tags.get('width')) return parseInt(this.tags.get('width'))*0.8
+		else return 1
+	}
+},
+parkchange: {
+	glow: "yellow"
+},
+building: {
+	opacity: 1,
+	lineWidth: 0.001,
+	fillStyle: "#444",
+	hover: {
+		fillStyle: '#222'
+	},
+	mouseDown: {
+		lineWidth: 18,
+		strokeStyle: "red"
+	},
+	menu: {
+		"Search on Google": function() {
+			if (this.tags.get('name')) {
+				window.open("http://google.com/search?q=" + this.tags.get('name'), "_blank")
+			}
+			else {
+				alert('Sorry! The name of this building is unknown.')
+			}
+		},
+		"Search on Wikipedia": function() {
+			if (this.tags.get('name')) {
+				window.open("http://en.wikipedia.org/wiki/Special:Search?go=Go&search=" + this.tags.get('name'), "_blank")
+			}
+			else {
+				alert('Sorry! The name of this building is unknown.')
+			}
+		}
+	}
+},
+landuse: {
+	fillStyle: "#eee"
+},
+rail: {
+	lineWidth: 1,
+	strokeStyle: "black",
+	fontSize: 14,
+	fontColor: "black",
+	opacity: 1,
+	fontBackground: "white",
+	text: function(){
+		return this.tags.get('note');
+	}
+},
+debug: {
+	way: {
+		menu: {
+			"Inspect": function() {$l(this)}
+		}
+	}
+}
