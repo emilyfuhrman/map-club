@@ -1,6 +1,6 @@
 # Map Club
 
-Map Club is a series of fast-paced hack sessions focused on **play, exploration, and the rapid acquisition of skills**. Each meeting provides an informal and fun opportunity for the exploration of a web-based library or framework. Sessions are loosely divided into three phases: background and setup, self-paced making, and sharing.
+Map Club is a series of fast-paced hack sessions focused on **play, exploration, and the rapid acquisition of skills**. Each meeting provides an informal and fun opportunity for the exploration of a web-based library or framework. Sessions are loosely divided into three phases: background and setup, self-paced making, and sharing. For information and examples of work from previous sessions, see the ["map club" tag](https://blogs.cul.columbia.edu/dssc/tag/map-club/) on the [Columbia University Digital Social Science Center Blog](https://blogs.cul.columbia.edu/dssc/). 
 
 ## Preparation
 
