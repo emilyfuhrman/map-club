@@ -1,6 +1,6 @@
 # Map Club
 
-Map Club is a series of fast-paced hack sessions focused on the rapid acquisition of skills. Each session provides an informal and fun opportunity for the exploration of a web-based library or framework. Sessions are loosely divided into three phases: background and setup, self-paced making, and sharing.
+Map Club is a series of fast-paced hack sessions focused on the rapid acquisition of skills. Each meeting provides an informal and fun opportunity for the exploration of a web-based library or framework. Sessions are loosely divided into three phases: background and setup, self-paced making, and sharing.
 
 ### 2016 &mdash; Fall
 
