@@ -20,7 +20,7 @@ For Map Club sessions focused on web-based interactive mapping, you will need to
 
 **[Session 01 &mdash; Dynamic Mapping with Cartagen](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_01)**
 
-**[Session 02 &mdash; Simple maps with geojson.io](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_02)**
+**[Session 02 &mdash; Simple Maps with geojson.io](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_02)**
 
 _**[Session 03 &mdash; WORKSHOP &mdash; Interactive maps with CARTO](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_03)**_
 
