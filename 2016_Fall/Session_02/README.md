@@ -18,6 +18,6 @@ The geojson.io interface includes an informative "Help" section in the top menu 
 
 #### Data conversion sources (Shapefile to GeoJSON)
 
-* [ogre](http://ogre.adc4gis.com/) &mdash; Online interface)
-* [shpescape](http://www.shpescape.com/) &mdash; Online interface
-* [esri2open](https://github.com/project-open-data/esri2open) &mdash; Python script
+* [ogre](http://ogre.adc4gis.com/)
+* [shpescape](http://www.shpescape.com/)
+* [esri2open](https://github.com/project-open-data/esri2open) (Python script)
