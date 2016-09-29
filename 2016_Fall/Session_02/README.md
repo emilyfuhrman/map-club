@@ -8,8 +8,8 @@ The geojson.io interface includes an informative "Help" section in the top menu 
 
 #### Resources
 
-* [geojson.io](http://geojson.io/)
-* [About geojson.io](http://geojson.io/about.html)
+* [geojson.io &mdash; Interface](http://geojson.io/)
+* [geojson.io &mdash; About](http://geojson.io/about.html)
 
 #### Data sources
 
