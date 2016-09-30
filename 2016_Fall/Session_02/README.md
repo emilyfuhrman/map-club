@@ -11,7 +11,7 @@ The geojson.io interface includes an informative "Help" section in the top menu 
 
 #### Data sources
 
-Most spatial data on the web, including data provided through sources listed below, is available for download in ESRI Shapefile format.To create a map using the geojson.io interface, you will need to convert your data to GeoJSON format using one of the data conversion sources below. If you cannot get one of the converters to work, go ahead and download [QGIS](http://qgis.org/en/site/), a free and open-source GIS platform that offers powerful tools for data editing, viewing, and analysis. You can use QGIS to import Shapefiles and export them in GeoJSON format. 
+Most spatial data on the web, including data provided through sources listed below, is available for download in ESRI Shapefile format.To create a map using the geojson.io interface, you will need to convert your data to GeoJSON format using one of the data conversion sources listed underneath this section. If you cannot get one of the converters to work, go ahead and download [QGIS](http://qgis.org/en/site/), a free and open-source GIS platform that offers powerful tools for data editing, viewing, and analysis. You can use QGIS to import Shapefiles and export them in GeoJSON format. 
 
 * [Natural Earth](http://www.naturalearthdata.com/downloads/)
 * [NYC OpenData](https://nycopendata.socrata.com/)
