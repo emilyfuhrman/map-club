@@ -1,8 +1,6 @@
 # 20160930 &mdash; Simple Maps with geojson.io
 
-This session focuses on [geojson.io](http://geojson.io/about.html), a simple, open-source editor for map data.
-
-The geojson.io interface includes an informative "Help" section in the top menu of the right panel. Once you create a map using the geojson.io interface, the URL of the page will update to become a shareable link.
+This session focuses on [geojson.io](http://geojson.io/about.html), a simple, open-source editor for map data. The geojson.io interface includes an informative "Help" section in the top menu of the right panel. 
 
 #### Resources
 
