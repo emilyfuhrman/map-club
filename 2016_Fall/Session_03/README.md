@@ -19,6 +19,13 @@ The datasets for this tutorial were downloaded from the ["forest use"](http://da
 
 ![01](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_03/Images/01.png)
 
-* Before going any further, navigate to the `DATA VIEW` option in the top section of the CARTO window. Here, you can see the table associated with the shapefile you uploaded:
+* Before going any further, navigate to the `DATA VIEW` option in the top section of the CARTO window. Here, you can see the table associated with the shapefile you uploaded.
 
 ![02](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_03/Images/02.png)
+
+* A couple of notes:
+	* Next to the column titled `the_geom`, you will see an orange `GEO` tag. This is the column that CARTO has extrapolated from the shapefile, which contains the geometry for each row. 
+	* Notice the data type in gray under each column name (ex. `number`, `geometry`, `string`). CARTO automatically adds these labels to the imported data to indicate the type of data that each column contains. 
+* Hit `MAP VIEW` at the top of the page to return to the map preview from earlier. 
+* Zoom and pan around the map a bit. Because this map is comprised of vector data, the colored regions will appear crisp at any scale. If you click on a region, CARTO will automatically provide a popup box, though it will not provide any information since we have not yet selected any fields for it to display.  
+
