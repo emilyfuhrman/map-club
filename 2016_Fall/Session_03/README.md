@@ -10,9 +10,9 @@ The datasets for this tutorial were downloaded from the ["forest use"](http://da
 * Canada Forest Tenures, originally downloaded from [here](http://data.globalforestwatch.org/datasets/44bbf06379f545daa149ee7b237b9e18_1).
 * Oil Palm Concessions (select countries), originally downloaded from [here](http://data.globalforestwatch.org/datasets/20398d4dc36e47bd92b559786670f270_1).
 
-## Creating forest use maps in [CARTO](https://carto.com/)
+## Creating a forest use map in [CARTO](https://carto.com/)
 
-#### Map #1 &mdash; Indonesia Wood Fiber Plantations 
+#### Importing data into CARTO
 
 * Log into your CARTO account. Hit the `NEW MAP` button to create a new working project.
 * Unless you have already imported data into CARTO, your `DATASETS` tab should be empty. Click `CONNECT DATASET`, and select the **zipped** Indonesia Wood Fiber Plantations dataset. Wait for the data to import. The resultant view should look something like this:
