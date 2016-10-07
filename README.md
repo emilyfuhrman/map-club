@@ -4,6 +4,8 @@ Map Club is a series of fast-paced hack sessions focused on **play, exploration,
 
 For examples of work from previous sessions, see the ["map club" tag](https://blogs.cul.columbia.edu/dssc/tag/map-club/) on the [Columbia University Digital Social Science Center Blog](https://blogs.cul.columbia.edu/dssc/). 
 
+To join the Map Club mailing list, click [here](http://eepurl.com/ciouUX).
+
 ## Logistics
 
 All Map Club sessions are held on **Fridays, 1:30 - 3:00PM** in **Room 215** on the lower level of Lehman Library. To view the most recently updated schedule for Fall 2016, go [here](https://blogs.cul.columbia.edu/dssc/2016/09/14/map-club-fall-2016-edition/).
