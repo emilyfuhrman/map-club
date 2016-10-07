@@ -16,7 +16,9 @@ The datasets for this tutorial were downloaded from the ["forest use"](http://da
 * Canada Forest Tenures, originally downloaded from [here](http://data.globalforestwatch.org/datasets/44bbf06379f545daa149ee7b237b9e18_1).
 * Oil Palm Concessions (select countries), originally downloaded from [here](http://data.globalforestwatch.org/datasets/20398d4dc36e47bd92b559786670f270_1).
 
-## Creating a forest use map in [CARTO](https://carto.com/)
+## Creating maps in [CARTO](https://carto.com/)
+
+### Map #1 &mdash; Indonesia Wood Fiber Concessions
 
 #### Importing data into CARTO
 
@@ -39,7 +41,7 @@ The datasets for this tutorial were downloaded from the ["forest use"](http://da
 
 ![03](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_03/Images/03_Interface.png)
 
-The CARTO interface contains a number of controls in the right toolbar.
+The CARTO interface contains a number of controls in the right toolbar. Here's a breakdown:
 
 * The `+` button at the top of the bar enables you to add additional datasets to your working map.
 * The `1` button allows you to choose which layer to focus on. Since we only have one dataset associated with this map, `1` is the only option available.
@@ -53,4 +55,6 @@ The CARTO interface contains a number of controls in the right toolbar.
 #### Visualizing allocations by group
 
 This data contains a list of organizations to whom a given area is allocated. We can gain a visual overview of these allocations by color-coding each region based on the `group_comp` column.
+
+* 
 
