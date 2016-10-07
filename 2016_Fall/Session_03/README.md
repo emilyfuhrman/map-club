@@ -58,5 +58,10 @@ The CARTO interface contains a number of controls in the right toolbar. Here's a
 
 This data contains a list of organizations to whom a given area is allocated. We can gain a visual overview of these allocations by color-coding each region based on the `group_comp` column.
 
-* 
+* Navigate to the `wizards` button, the paintbrush icon right below the `SQL` button in the right navigation bar.
 
+![04](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_03/Images/04_Wizards.png)
+
+* In the first horizontal panel, select the `CATEGORY` option. We want our color scheme to reflect the fact that the groups are not related to one another either quantitatively or qualitatively, at least as reflected in this dataset. The scale we choose should therefore be comprised of colors that are qualitatively distinct from one another.
+
+![05](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_03/Images/05_Wizards_Category.png)
