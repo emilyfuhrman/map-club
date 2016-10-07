@@ -111,4 +111,6 @@ Looking at this map, I realize that many of the regions are allocated to `NO GRO
 
 ![10](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_03/Images/10_Publish.png)
 
-* Select your desired privacy setting and save. Your map is now publicly accessible.
+* Select your desired privacy setting and save. Your map is now publicly accessible! Navigate to the public link and check it out. 
+
+![11](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_03/Images/11_Final.png)
