@@ -6,7 +6,7 @@ For examples of work from previous sessions, see the ["map club" tag](https://bl
 
 ## Logistics
 
-All Map Club sessions are held on Fridays from 1:30 - 3:00PM in Room 215 on the lower level of Lehman Library. To view the most recently updated schedule for Fall 2016, go [here](https://blogs.cul.columbia.edu/dssc/2016/09/14/map-club-fall-2016-edition/).
+All Map Club sessions are held on **Fridays from 1:30 - 3:00PM in Room 215 on the lower level of Lehman Library**. To view the most recently updated schedule for Fall 2016, go [here](https://blogs.cul.columbia.edu/dssc/2016/09/14/map-club-fall-2016-edition/).
 
 ## Preparation
 
