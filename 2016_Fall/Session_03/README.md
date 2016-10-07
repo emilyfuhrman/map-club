@@ -109,7 +109,7 @@ Looking at this map, I realize that many of the regions are allocated to `NO GRO
 * Now, click the `PUBLISH` button in the top right corner. 
 * The far left block of the resultant screen might indicate that you need to change your privacy settings in order for this map to be publicly visible. 
 
-![10](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_03/Images/10_Publish_Map.png)
+![10](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_03/Images/10_Publish_Map_Window.png)
 
 * Select your desired privacy setting and save. Your map is now publicly accessible! Navigate to the public link and check it out. 
 
