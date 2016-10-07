@@ -96,11 +96,13 @@ Looking at this map, I realize that many of the regions are allocated to `NO GRO
 	* Navigate back to your main map from the dashboard.
 	* Use the `+` button to add the new copied dataset to the map.
 	* Walk through the same styling steps as above to color-code the newly filtered data by the `group_comp` category.
+	* Delete the original dataset, layer `1`, from the map.
+
+#### Finalizing and publishing your map
+
+* Use the `infowindow` button to customize your tooltip, if you choose.
 * Use the `legend` button to customize your legend, if you choose.
-
-#### Publishing your map
-
-* Once you have finished customizing your map, click `Edit metadata...` under the top left title (which, by default, is currently `Untitled Map`). Here, you can edit the title to something of your choosing. I'm going to call mine "Indonesia Wood Fiber Concessions."
+* Once you have finished finalizing your map, click `Edit metadata...` under the top left title (which, by default, is currently `Untitled Map`). Here, you can edit the title to something of your choosing. I'm going to call mine "Indonesia Wood Fiber Concessions."
 * Add a description and some tags, if you like. 
 
 ![09](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_03/Images/09_Metadata.png)
