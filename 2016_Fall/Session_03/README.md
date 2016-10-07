@@ -65,3 +65,8 @@ This data contains a list of organizations to whom a given area is allocated. We
 * In the first horizontal panel, select the `CATEGORY` option. We want our color scheme to reflect the fact that the groups are not related to one another either quantitatively or qualitatively, at least as reflected in this dataset. The scale we choose should therefore be comprised of colors that are qualitatively distinct from one another.
 
 ![05](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_03/Images/05_Wizards_Category.png)
+
+* Next to the `Column` label, we can see that the default column driving this newly-selected color scheme is the `area_ha` column. This is a quantitative measure of the areas themselves, which is not what we want. Instead, select `group_comp` from the column. Your map should now look something like this:
+
+![06](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_03/Images/06_Colorized.png)
+
