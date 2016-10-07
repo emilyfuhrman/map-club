@@ -102,7 +102,7 @@ Looking at this map, I realize that many of the regions are allocated to `NO GRO
 
 * Use the `infowindow` button to customize your tooltip, if you choose.
 * Use the `legend` button to customize your legend, if you choose.
-* If you would like to change the basemap from its default setting, select the `Change basemap` option in the bottom left corner and choose a different style. 
+* If you would like to change the basemap from its default setting, select the `Change basemap` option in the bottom left corner and choose a different style. (For those interested in reading about the process of creating the Stamen watercolor basemap, go [here](http://content.stamen.com/watercolor_process).)
 
 ![09](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_03/Images/09_Basemap_Untitled.png)
 
