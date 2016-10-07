@@ -2,11 +2,17 @@
 
 This guided session explores [CARTO](https://carto.com/), a unified web mapping and visualization engine.
 
+#### Resources
+
+* [CARTO Documentation](https://carto.com/docs/)
+* [CARTO Tutorials](https://carto.com/docs/tutorials/)
+
 #### Data sources
 
 The datasets for this tutorial were downloaded from the ["forest use"](http://data.globalforestwatch.org/datasets?keyword=forest%20use) section of the [Global Forest Watch Open Data Portal](http://data.globalforestwatch.org/). Each dataset comes in the form of a compressed shapefile. A shapefile is an ESRI-created format comprised of three or more files that together represent vector features (such as points, lines, or polygons) as well as any associated attributes (such as "area," "ID," and "name"). **For the first portion of this tutorial, we will only need the Indonesia Wood Fiber Plantations dataset.** I have included the other datasets as optional sources for further exploration.
 
 * Indonesia Wood Fiber Plantations, originally downloaded from [here](http://data.globalforestwatch.org/datasets/05c3a7ee17df4f69bf3c4f974a8bece9_0).
+	* [Metadata](http://data.globalforestwatch.org/datasets/05c3a7ee17df4f69bf3c4f974a8bece9_0?uiTab=metadata)
 * Canada Forest Tenures, originally downloaded from [here](http://data.globalforestwatch.org/datasets/44bbf06379f545daa149ee7b237b9e18_1).
 * Oil Palm Concessions (select countries), originally downloaded from [here](http://data.globalforestwatch.org/datasets/20398d4dc36e47bd92b559786670f270_1).
 
@@ -29,5 +35,22 @@ The datasets for this tutorial were downloaded from the ["forest use"](http://da
 * Hit `MAP VIEW` at the top of the page to return to the map preview from earlier. 
 * Zoom and pan around the map a bit. Because this map is comprised of vector data, the colored regions will appear crisp at any scale. If you click on a region, CARTO will automatically provide a popup box, though it will not provide any information since we have not yet selected any fields for it to display.
 
-#### Visualizing group data
+#### The CARTO interface
+
+![03](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_03/Images/03_Interface.png)
+
+The CARTO interface contains a number of controls in the right toolbar.
+
+* The `+` button at the top of the bar enables you to add additional datasets to your working map.
+* The `1` button allows you to choose which layer to focus on. Since we only have one dataset associated with this map, `1` is the only option available.
+* The `SQL` option enables you to write custom SQL queries to filter the visible data.
+* The `wizards` button controls the styling of the map.
+* The `infowindow` button controls the appearance of the tooltip that appears when you click or hover over a vector region.
+* The `CSS` button enables you to write custom, CARTO-specific markup called CartoCSS (which has similar syntax to regular CSS) for more fine-tuned control over the appearance of the elements in the map.
+* The `legends` button allows for the creation of a custom legend.
+* The `filters` button enables you to filter the visible data by the attributes in a selected column. 
+
+#### Visualizing allocations by group
+
+This data contains a list of organizations to whom a given area is allocated. We can gain a visual overview of these allocations by color-coding each region based on the `group_comp` column.
 
