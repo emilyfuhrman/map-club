@@ -29,3 +29,5 @@ The datasets for this tutorial were downloaded from the ["forest use"](http://da
 * Hit `MAP VIEW` at the top of the page to return to the map preview from earlier. 
 * Zoom and pan around the map a bit. Because this map is comprised of vector data, the colored regions will appear crisp at any scale. If you click on a region, CARTO will automatically provide a popup box, though it will not provide any information since we have not yet selected any fields for it to display.
 
+#### Visualizing 
+
