@@ -15,7 +15,7 @@ The datasets for this tutorial were downloaded from the ["forest use"](http://da
 	* [Metadata](http://data.globalforestwatch.org/datasets/05c3a7ee17df4f69bf3c4f974a8bece9_0?uiTab=metadata)
 * Canada Forest Tenures, originally downloaded from [here](http://data.globalforestwatch.org/datasets/44bbf06379f545daa149ee7b237b9e18_1).
 * Oil Palm Concessions (select countries), originally downloaded from [here](http://data.globalforestwatch.org/datasets/20398d4dc36e47bd92b559786670f270_1).
-* New York City 311 Complaints (2015), originally downloaded from [here](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-2015/hemm-82xw).
+* New York City 311 Complaints, originally downloaded from [here](https://nycopendata.socrata.com/data?browseSearch=311).
 
 ## Creating maps in [CARTO](https://carto.com/)
 
