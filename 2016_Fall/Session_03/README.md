@@ -18,7 +18,7 @@ The datasets for this tutorial were downloaded from the ["forest use"](http://da
 
 ## Creating maps in [CARTO](https://carto.com/)
 
-### Map #1 &mdash; Indonesia Wood Fiber Concessions
+### Map &mdash; Indonesia Wood Fiber Concessions
 
 For this map, we will use the Indonesia Wood Fiber Plantations dataset to visualize the different groups to whom the listed areas are allocated. 
 
@@ -69,4 +69,25 @@ This data contains a list of organizations to whom a given area is allocated. We
 * Next to the `Column` label, we can see that the default column driving this newly-selected color scheme is the `area_ha` column. This is a quantitative measure of the areas themselves, which is not what we want. Instead, select `group_comp` from the column. Your map should now look something like this:
 
 ![06](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_03/Images/06_Colorized.png)
+
+* CARTO automatically populated the palette with groups that had the most entries, bucketing the rest into an `OTHERS` category. Its default limit for distinct colors is 10. 
+* Use `Polygon Fill` to adjust the opacity of the color.
+* Use `Polygon Stroke` to adjust the width, color, and opacity of the outline of each area. 
+* Navigating to the `CSS` button, you can view and edit the CartoCSS styles that control the appearance of each category.
+
+![07](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_03/Images/07_CartoCSS.png)
+
+* Each of these colors is in HEX form. If you would like to customize the codes, visit [ColorBrewer](http://colorbrewer2.org/) or [Adobe Kuler](https://color.adobe.com/). 
+* Make sure to hit `Apply Style` any time you make a change. 
+
+#### Filtering out "No group"
+
+Looking at this map, I realize that many of the regions are allocated to `NO GROUP`. Let's filter these rows out.
+
+* Navigate to the `SQL` button on the side navigation bar.
+* Below the default query that pulls your dataset into the map, add the following: `WHERE NOT group_comp = 'No group'`. This will exclude results that have "No group" as a value in the `group_comp` column.
+* Hit `Apply query`. The color-coded "No group" results should no longer appear in the map, though they do still appear in the legend.
+
+![08](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_03/Images/08_SQL.png)
+
 
