@@ -80,7 +80,7 @@ This data contains a list of organizations to whom a given area is allocated. We
 * Each of these colors is in HEX form. If you would like to customize the codes, visit [ColorBrewer](http://colorbrewer2.org/) or [Adobe Kuler](https://color.adobe.com/). 
 * Make sure to hit `Apply Style` any time you make a change. 
 
-#### Filtering out "No group"
+#### Filtering out "No group" (optional)
 
 Looking at this map, I realize that many of the regions are allocated to `NO GROUP`. Let's filter these rows out.
 
@@ -90,4 +90,25 @@ Looking at this map, I realize that many of the regions are allocated to `NO GRO
 
 ![08](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_03/Images/08_SQL.png)
 
+* To remove "No group" from the legend, click `create dataset from query`. This will create a new dataset with the applied filter. **Only do this if you are prepared to re-do your map styling in a new layer.** 
+* **If you choose to create a new dataset from this query:**
+	* Once CARTO finishes processing your request, you should see the `Data View` screen of the copied dataset.
+	* Navigate back to your main map from the dashboard.
+	* Use the `+` button to add the new copied dataset to the map.
+	* Walk through the same styling steps as above to color-code the newly filtered data by the `group_comp` category.
+* Use the `legend` button to customize your legend, if you choose.
 
+#### Publishing your map
+
+* Once you have finished customizing your map, click `Edit metadata...` under the top left title (which, by default, is currently `Untitled Map`). Here, you can edit the title to something of your choosing. I'm going to call mine "Indonesia Wood Fiber Concessions."
+* Add a description and some tags, if you like. 
+* Click `SAVE`.
+
+![09](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_03/Images/09_Metadata.png)
+
+* Now, click the `PUBLISH` button in the top right corner. 
+* The far left block of the resultant screen might indicate that you need to change your privacy settings in order for this map to be publicly visible. 
+
+![10](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_03/Images/10_Publish.png)
+
+* Select your desired privacy setting and save. Your map is now publicly accessible.
