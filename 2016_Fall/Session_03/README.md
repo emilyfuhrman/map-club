@@ -20,6 +20,8 @@ The datasets for this tutorial were downloaded from the ["forest use"](http://da
 
 ### Map #1 &mdash; Indonesia Wood Fiber Concessions
 
+For this map, we will use the Indonesia Wood Fiber Plantations dataset to visualize the different groups to whom the listed areas are allocated. 
+
 #### Importing data into CARTO
 
 * Log into your CARTO account. Hit the `NEW MAP` button to create a new working project.
