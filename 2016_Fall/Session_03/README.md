@@ -102,14 +102,14 @@ Looking at this map, I realize that many of the regions are allocated to `NO GRO
 
 * Once you have finished customizing your map, click `Edit metadata...` under the top left title (which, by default, is currently `Untitled Map`). Here, you can edit the title to something of your choosing. I'm going to call mine "Indonesia Wood Fiber Concessions."
 * Add a description and some tags, if you like. 
-* Click `SAVE`.
 
 ![09](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_03/Images/09_Metadata.png)
 
+* Click `SAVE`.
 * Now, click the `PUBLISH` button in the top right corner. 
 * The far left block of the resultant screen might indicate that you need to change your privacy settings in order for this map to be publicly visible. 
 
-![10](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_03/Images/10_Publish.png)
+![10](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_03/Images/10_Publish_Map.png)
 
 * Select your desired privacy setting and save. Your map is now publicly accessible! Navigate to the public link and check it out. 
 
