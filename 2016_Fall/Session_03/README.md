@@ -102,17 +102,21 @@ Looking at this map, I realize that many of the regions are allocated to `NO GRO
 
 * Use the `infowindow` button to customize your tooltip, if you choose.
 * Use the `legend` button to customize your legend, if you choose.
+* If you would like to change the basemap from its default setting, select the `Change basemap` option in the bottom left corner and choose a different style. 
+
+![09](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_03/Images/09_Basemap.png)
+
 * Once you have finished finalizing your map, click `Edit metadata...` under the top left title (which, by default, is currently `Untitled Map`). Here, you can edit the title to something of your choosing. I'm going to call mine "Indonesia Wood Fiber Concessions."
 * Add a description and some tags, if you like. 
 
-![09](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_03/Images/09_Metadata.png)
+![10](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_03/Images/10_Metadata.png)
 
 * Click `SAVE`.
 * Now, click the `PUBLISH` button in the top right corner. 
 * The far left block of the resultant screen might indicate that you need to change your privacy settings in order for this map to be publicly visible. 
 
-![10](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_03/Images/10_Publish_Map_Window.png)
+![11](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_03/Images/11_Publish_Map_Window.png)
 
 * Select your desired privacy setting and save. Your map is now publicly accessible! Navigate to the public link and check it out. 
 
-![11](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_03/Images/11_Final.png)
+![12](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_03/Images/12_Final.png)
