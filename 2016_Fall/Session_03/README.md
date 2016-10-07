@@ -6,6 +6,7 @@ This guided session explores [CARTO](https://carto.com/), a unified web mapping 
 
 * [CARTO Documentation](https://carto.com/docs/)
 * [CARTO Tutorials](https://carto.com/docs/tutorials/)
+* [Topojson Command Line Reference](https://github.com/mbostock/topojson/wiki/Command-Line-Reference)
 
 #### Data sources
 
