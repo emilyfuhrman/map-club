@@ -104,7 +104,7 @@ Looking at this map, I realize that many of the regions are allocated to `NO GRO
 * Use the `legend` button to customize your legend, if you choose.
 * If you would like to change the basemap from its default setting, select the `Change basemap` option in the bottom left corner and choose a different style. 
 
-![09](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_03/Images/09_Basemap.png)
+![09](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_03/Images/09_Basemap_Untitled.png)
 
 * Once you have finished finalizing your map, click `Edit metadata...` under the top left title (which, by default, is currently `Untitled Map`). Here, you can edit the title to something of your choosing. I'm going to call mine "Indonesia Wood Fiber Concessions."
 * Add a description and some tags, if you like. 
