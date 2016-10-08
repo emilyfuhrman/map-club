@@ -4,7 +4,7 @@ Map Club is a series of fast-paced hack sessions focused on **play, exploration,
 
 For examples of work from previous sessions, see the ["map club" tag](https://blogs.cul.columbia.edu/dssc/tag/map-club/) on the [Columbia University Digital Social Science Center Blog](https://blogs.cul.columbia.edu/dssc/). 
 
-To join the Map Club mailing list, click [**here**](http://eepurl.com/ciouUX).
+**_To join the Map Club mailing list, click [here](http://eepurl.com/ciouUX)._**
 
 ## Logistics
 
