@@ -24,11 +24,11 @@ For Map Club sessions focused on web-based interactive mapping, you will need to
 
 ![Fall 2016](https://github.com/emilyfuhrman/map-club/blob/master/Assets/Banner_2016_Fall.png)
 
-**[~~Session 01~~ &mdash; ~~Dynamic Mapping with Cartagen~~](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_01)**
+**[~~Session 01~~ &mdash; Dynamic Mapping with Cartagen](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_01)**
 
-**[~~Session 02~~ &mdash; ~~Simple Maps with geojson.io~~](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_02)**
+**[~~Session 02~~ &mdash; Simple Maps with geojson.io](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_02)**
 
-_**[~~Session 03~~ &mdash; ~~WORKSHOP~~ &mdash; ~~Interactive maps with CARTO~~](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_03)**_
+_**[~~Session 03~~ &mdash; WORKSHOP &mdash; Interactive maps with CARTO](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_03)**_
 
 **[Session 04 &mdash; Interactive Mapping with Mapzen](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_04)**
 
@@ -44,12 +44,12 @@ _**[Session 09 &mdash; WORKSHOP &mdash; D3.js](https://github.com/emilyfuhrman/m
 
 ![Summer 2016](https://github.com/emilyfuhrman/map-club/blob/master/Assets/Banner_2016_Summer.png)
 
-**[~~Session 01~~ &mdash; ~~CARTO.js~~](https://github.com/emilyfuhrman/map-club/blob/master/2016_Summer/Session_01)**
+**[~~Session 01~~ &mdash; CARTO.js](https://github.com/emilyfuhrman/map-club/blob/master/2016_Summer/Session_01)**
 
-**[~~Session 02~~ &mdash; ~~Kartograph~~](https://github.com/emilyfuhrman/map-club/blob/master/2016_Summer/Session_02)**
+**[~~Session 02~~ &mdash; Kartograph](https://github.com/emilyfuhrman/map-club/blob/master/2016_Summer/Session_02)**
 
-**[~~Session 03~~ &mdash; ~~QGIS~~](https://github.com/emilyfuhrman/map-club/blob/master/2016_Summer/Session_03)**
+**[~~Session 03~~ &mdash; QGIS](https://github.com/emilyfuhrman/map-club/blob/master/2016_Summer/Session_03)**
 
-**[~~Session 04~~ &mdash; ~~Mapzen~~](https://github.com/emilyfuhrman/map-club/blob/master/2016_Summer/Session_04)**
+**[~~Session 04~~ &mdash; Mapzen](https://github.com/emilyfuhrman/map-club/blob/master/2016_Summer/Session_04)**
 
-**[~~Session 05~~ &mdash; ~~D3.js~~](https://github.com/emilyfuhrman/map-club/blob/master/2016_Summer/Session_05)**
+**[~~Session 05~~ &mdash; D3.js](https://github.com/emilyfuhrman/map-club/blob/master/2016_Summer/Session_05)**
