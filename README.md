@@ -28,7 +28,7 @@ For Map Club sessions focused on web-based interactive mapping, you will need to
 
 **[Session 02 &mdash; Simple Maps with geojson.io](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_02)**
 
-_**[Session 03 &mdash; WORKSHOP &mdash; Interactive maps with CARTO](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_03)**_
+_**[Session 03 &mdash; WORKSHOP &mdash; Interactive Maps with CARTO](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_03)**_
 
 **[Session 04 &mdash; Interactive Mapping with Mapzen](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_04)**
 
