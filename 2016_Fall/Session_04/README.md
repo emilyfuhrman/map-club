@@ -8,6 +8,7 @@ In order to run and edit the Mapzen tutorial, you need to be able to serve files
 
 * [Introductory tutorial](https://mapzen.com/documentation/tangram/walkthrough/)
 * [Documentation](https://mapzen.com/documentation/tangram/)
+* [Book of shaders](http://patriciogonzalezvivo.com/2015/thebookofshaders/)
 
 #### Demo
 
