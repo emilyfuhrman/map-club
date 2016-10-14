@@ -30,7 +30,7 @@ _**[Session 02 &mdash; Simple Maps with geojson.io](https://github.com/emilyfuhr
 
 _**[Session 03 &mdash; WORKSHOP &mdash; Interactive Maps with CARTO](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_03)**_
 
-**[Session 04 &mdash; Interactive Mapping with Mapzen](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_04)**
+_**[Session 04 &mdash; Interactive Mapping with Mapzen](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_04)**_
 
 **[Session 05 &mdash; Dynamic Mapping with OpenLayers](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_05)**
 
