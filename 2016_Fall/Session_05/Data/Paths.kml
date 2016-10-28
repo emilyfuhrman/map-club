@@ -1,0 +1,2242 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Paths</name>
+		<Placemark>
+			<name>Line 2</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.987641,40.76538,0.0 -73.96475,40.75575,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 3</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.98706,40.72241,0.0 -73.98779,40.72267,0.0 -73.98882,40.72294,0.0 -73.991053,40.723624,0.0 -73.99264,40.7241,0.0 -73.99425,40.72467,0.0 -73.995388,40.725088,0.0 -73.99704,40.72548,0.0 -73.99922,40.72654,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 5</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.996954,40.731405,0.0 -73.98274,40.75096,0.0 -73.97854,40.75668,0.0 -73.97587,40.76044,0.0 -73.97299,40.76428,0.0 -73.96513,40.77506,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 6</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.00412,40.74764,0.0 -73.983157,40.738836,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 9</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.981871,40.766315,0.0 -73.98176,40.76714,0.0 -73.98167,40.7675,0.0 -73.98181,40.76771,0.0 -73.98215,40.76775,0.0 -73.98228,40.76785,0.0 -73.98237,40.76811,0.0 -73.9823,40.76825,0.0 -73.98219,40.76835,0.0 -73.98206,40.76874,0.0 -73.98221,40.7755,0.0 -73.98209,40.77798,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 10</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.987019,40.761025,0.0 -73.98215,40.76774,0.0 -73.98174,40.767720000000004,0.0 -73.98158,40.76781,0.0 -73.98144,40.76798,0.0 -73.98148,40.76822,0.0 -73.98163,40.768370000000004,0.0 -73.98147,40.76865,0.0 -73.97785,40.7737,0.0 -73.97169,40.78203,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 11</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.97169,40.78203,0.0 -73.977368,40.784481,0.0 -73.97830000000002,40.78314,0.0 -73.9798,40.78379,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 10</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.993821,40.767184,0.0 -73.96519,40.75509,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 12</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.98802,40.74086,0.0 -73.9714,40.76358,0.0 -73.970046,40.765478,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 13</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9824,40.76741,0.0 -73.96863,40.761593,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 14</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.981869,40.766307,0.0 -73.96453000000001,40.75899,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 15</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.968041,40.759586,0.0 -73.972868,40.761626,0.0 -73.97447,40.76230000000001,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 16</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.968483,40.75896,0.0 -73.97009,40.75962,0.0 -73.98382630000002,40.7654283,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 17</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.99163,40.75468,0.0 -73.99448,40.7559,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 18</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.008768,40.741453,0.0 -74.00828400000002,40.742071,0.0 -74.00819,40.74213,0.0 -74.00775,40.74284,0.0 -74.00728,40.74341,0.0 -74.00281,40.7496,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 20</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.98564,40.75781,0.0 -73.98562,40.75799,0.0 -73.9851,40.75940000000001,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 21</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.00128,40.71895,0.0 -74.00232,40.71768,0.0 -74.00243,40.71774,0.0 -74.00276,40.71733,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 22</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.99942,40.71866,0.0 -73.99543,40.71722,0.0 -73.989776,40.715525,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 23</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.99107,40.75031,0.0 -73.99392,40.75151,0.0 -74.002469,40.755108,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 24</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.95742,40.77007,0.0 -73.97362,40.74789,0.0 -73.97491,40.746,0.0 -73.978179,40.741616,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 25</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.0018996,40.7193632,0.0 -73.996761,40.725454,0.0 -73.99363,40.72908,0.0 -73.99147,40.73169,0.0 -73.99072,40.73482,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 26</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.97856,40.75665,0.0 -73.98462,40.75921,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 27</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.99064,40.75101,0.0 -73.98693,40.75601,0.0 -73.983779,40.760439000000005,0.0 -73.979069,40.766892,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 28</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.98536,40.75876,0.0 -73.98789,40.7598,0.0 -74.00283,40.739340000000006,0.0 -74.005816,40.736673,0.0 -74.00631,40.73373,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 29</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.990109,40.740852,0.0 -73.99897,40.74464,0.0 -74.0046808,40.7470601,0.0 -74.0077311,40.7483745,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 30</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.974488,40.762292,0.0 -73.9891006,40.7684515,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 31</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.97579000000002,40.75466,0.0 -73.970754,40.761610000000005,0.0 -73.968458,40.764779,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 32</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.97642,40.78067000000001,0.0 -73.97358,40.77948,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 33</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.97075,40.75582,0.0 -73.980474,40.759903,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 34</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9988,40.72303,0.0 -73.99798,40.72264,0.0 -73.996321,40.721933,0.0 -73.995484,40.721583,0.0 -73.9938105,40.7209414,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 35</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.99879,40.72302,0.0 -74.00042,40.72378,0.0 -74.00192100000001,40.724535,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 36</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.98885,40.72289,0.0 -73.98867,40.72298,0.0 -73.98855,40.7231,0.0 -73.978543,40.736868,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 37</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.99069,40.73483,0.0 -73.9902,40.7351,0.0 -73.98983000000001,40.73545,0.0 -73.98773,40.73831,0.0 -73.981376,40.747078,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 38</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.98774,40.73831,0.0 -73.98975,40.73915,0.0 -73.98894,40.74194000000001,0.0 -73.98894,40.7422,0.0 -73.98921,40.74247,0.0 -73.98904,40.74379,0.0 -73.987923,40.749858,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 39</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.98976,40.73915,0.0 -73.99035,40.73709,0.0 -73.99125,40.73588,0.0 -73.99174000000001,40.73521,0.0 -73.99277,40.733934,0.0 -73.993853,40.732714,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 40</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.98975,40.73916,0.0 -73.99416,40.74103,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 41</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9842724,40.7401326,0.0 -73.968158,40.762227,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 42</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.99483,40.718396,0.0 -73.99442200000001,40.71942,0.0 -73.994057,40.720299,0.0 -73.993306,40.722299,0.0 -73.99156,40.72708,0.0 -73.99151,40.72755,0.0 -73.99126,40.72838,0.0 -73.99113000000001,40.72847,0.0 -73.9908,40.72966,0.0 -73.99067,40.72986,0.0 -73.99048,40.73071,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 43</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.98208,40.72384,0.0 -73.98121,40.72506,0.0 -73.98811,40.727990000000005,0.0 -73.990796,40.724283,0.0 -73.99099900000002,40.723941,0.0 -73.991021,40.723641,0.0 -73.992931,40.719941,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 45</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.97766,40.7579,0.0 -73.971226,40.755206,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 46</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.97999,40.76054,0.0 -73.97028,40.7564,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 48</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.99593500000002,40.725112,0.0 -73.997984,40.722657,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 50</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.99351,40.724332,0.0 -73.994186,40.722689,0.0 -73.994701,40.721283,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 51</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.002222,40.729657,0.0 -73.99467,40.72592,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 52</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.998896,40.730657,0.0 -74.00045,40.72881,0.0 -74.0043588,40.7240929,0.0 -74.004618,40.7238118,0.0 -74.0047484,40.7237665,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 53</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.995604,40.72816100000001,0.0 -73.99942,40.73006,0.0 -74.00139,40.73106,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 55</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.99327,40.73092,0.0 -73.99034,40.72968,0.0 -73.99012,40.72964,0.0 -73.98769,40.72856,0.0 -73.983082,40.726633,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 55</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.981429,40.767972,0.0 -73.98129,40.767899,0.0 -73.981184,40.767777,0.0 -73.979069,40.766892,0.0 -73.97364,40.764584,0.0 -73.972986,40.764299,0.0 -73.97139,40.76357,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 56</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.960304,40.773002,0.0 -73.96513,40.775040000000004,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 57</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.96908,40.766762,0.0 -73.9588014,40.7808571,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 58</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.963072,40.775001,0.0 -73.959832,40.773636,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 59</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.98158,40.732649,0.0 -73.987845,40.735283,0.0 -73.99077,40.73652,0.0 -73.99876,40.73989,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 61</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.98306,40.730657,0.0 -74.0022,40.73872,0.0 -74.00243,40.73876,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 62</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9983,40.7354,0.0 -73.991289,40.732454000000004,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 63</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.953953,40.778815,0.0 -73.960395,40.781524,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 64</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.958555,40.78409200000001,0.0 -73.96279,40.77826,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 65</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.000069,40.732901,0.0 -73.997,40.73141,0.0 -73.99325,40.72955,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 66</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.99473,40.72781,0.0 -73.991826,40.726364,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 67</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9976727,40.7207863,0.0 -73.996675,40.723429,0.0 -73.995345,40.725072,0.0 -73.994647,40.725917,0.0 -73.99366,40.72725,0.0 -73.99148,40.72982,0.0 -73.99107,40.73001,0.0 -73.99049,40.73071,0.0 -73.98981,40.73393,0.0 -73.98997,40.735,0.0 -73.98991,40.73535,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 67</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.98363,40.73816,0.0 -73.990366,40.728901,0.0 -73.990731,40.728299,0.0 -73.991354,40.72747,0.0 -73.991579,40.727015,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 68</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.0089,40.7425,0.0 -74.0082,40.74212,0.0 -73.980367,40.730413,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 68</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.990248,40.714379,0.0 -73.990238,40.714606,0.0 -73.98633,40.72216,0.0 -73.98034,40.73041,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 69</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.989739,40.720457,0.0 -73.988371,40.720055,0.0 -73.986445,40.719465,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 70</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9997,40.73853,0.0 -74.00018,40.73785,0.0 -74.00112,40.736608,0.0 -74.002407,40.734364,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 71</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.0081115,40.7461839,0.0 -73.991375,40.739063,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 73</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.970261,40.768013,0.0 -73.965434,40.765973,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 74</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.969801,40.768647,0.0 -73.964994,40.766599,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 75</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.96934,40.769272,0.0 -73.964512,40.767225,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 77</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.99702,40.71651,0.0 -73.9986,40.71708,0.0 -73.99907,40.71733,0.0 -74.0053825,40.7219205,0.0 -74.0079403,40.7236975,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 78</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.999271,40.719803,0.0 -74.00058,40.718404,0.0 -74.00213,40.71667,0.0 -74.00308,40.71554,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 79</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.997791,40.716802,0.0 -73.998885,40.715046,0.0 -73.998606,40.713533,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 80</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.002125,40.715176,0.0 -74.000516,40.714379,0.0 -73.999572,40.713907,0.0 -73.998628,40.713549,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 81</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.99958,40.71388,0.0 -73.999701,40.715111,0.0 -73.999379,40.715859,0.0 -73.9986,40.71708,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 82</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.974509,40.783304,0.0 -73.997684,40.751516,0.0 -74.00547300000001,40.740965,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 84</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.002855,40.739340000000006,0.0 -74.002438,40.738754,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 85</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.986978,40.720965,0.0 -73.987782,40.721209,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 86</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.988371,40.720038,0.0 -73.98716,40.72238,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 87</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.98662000000002,40.72578000000001,0.0 -73.984404,40.724836,0.0 -73.982116,40.72386,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 88</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.0012,40.7241,0.0 -73.999186,40.726486,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 88</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.008563,40.744038,0.0 -73.99872,40.73988,0.0 -73.99566,40.74407,0.0 -73.992456,40.7484869,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 93</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.96524,40.755092,0.0 -73.96475,40.75575,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 98</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.98208,40.732020000000006,0.0 -73.996359,40.73803900000001,0.0 -74.002034,40.740445,0.0 -74.007763,40.742843,0.0 -74.00875,40.743246,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 99</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.968976,40.758327,0.0 -73.9705,40.75897,0.0 -73.98429,40.76484,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 101</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9821,40.77799,0.0 -73.981617,40.778608,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 101</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.983554,40.734243,0.0 -73.990366,40.737112,0.0 -73.998304,40.7404688,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 104</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.98404,40.72937,0.0 -73.990195,40.732007,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 105</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9596498,40.8011733,0.0 -73.952515,40.798266,0.0 -73.944404,40.794789,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 105</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.98773,40.74976,0.0 -73.972127,40.743177,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 106</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.99828,40.76081,0.0 -73.97772,40.75216000000001,0.0 -73.969971,40.748866,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 107</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.965883,40.76538,0.0 -73.95463,40.78076,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 108</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.960889,40.780838,0.0 -73.954468,40.778133,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 109</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.982191,40.775504,0.0 -73.977857,40.773701,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 110</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.976249,40.75406,0.0 -73.973039,40.752686000000004,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 111</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.967557,40.760228,0.0 -73.98038,40.74259000000001,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 113</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.968394,40.764779,0.0 -73.970071,40.765478,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 113</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.989573,40.739868,0.0 -73.993746,40.7416,0.0 -73.99658,40.742786,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 114</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.978373,40.752434,0.0 -73.976945,40.754361,0.0 -73.976043,40.75562,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 115</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.976077,40.75562800000001,0.0 -73.976957,40.755994,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 114</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.998638,40.73221,0.0 -73.999639,40.731015,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 115</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.000967,40.731665,0.0 -73.99888,40.73065,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 117</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.0104614,40.7115238,0.0 -74.0097267,40.7126991,0.0 -74.0053439,40.7182983,0.0 -74.0051891,40.7189853,0.0 -74.005206,40.719835,0.0 -74.00541,40.72219,0.0 -74.00373,40.72619,0.0 -74.00306,40.72797,0.0 -74.00221,40.72971,0.0 -74.00137,40.73111,0.0 -73.976204,40.765689,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 117</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.98826,40.71852,0.0 -73.99405,40.72028,0.0 -73.996589,40.721144,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 119</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.989143,40.716672,0.0 -73.99481,40.71842,0.0 -73.98426,40.71517,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 120</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.988555,40.721412,0.0 -73.989134,40.72027400000001,0.0 -73.989798,40.718981,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 121</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.976517,40.756612,0.0 -73.97936,40.757823,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 122</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.99545,40.73342,0.0 -73.99869,40.73478,0.0 -73.99925,40.73478,0.0 -74.002383,40.734348,0.0 -74.006267,40.733747,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 123</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.997641,40.725779,0.0 -73.99328,40.73091,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 122</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.973994,40.743095,0.0 -73.981934,40.746428,0.0 -73.98825,40.74912,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 123</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.981644,40.724486,0.0 -73.986171,40.726373,0.0 -73.988564,40.727397,0.0 -73.990753,40.728324,0.0 -73.990967,40.728413,0.0 -73.991171,40.728462,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 124</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.993757,40.725633,0.0 -73.99458,40.72377,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 124</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.983543,40.73002300000001,0.0 -73.99277,40.733909,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 125</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.982266,40.7574,0.0 -73.985056,40.758578,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 126</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9888,40.758522,0.0 -73.986021,40.757359,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 127</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.00827,40.74543,0.0 -73.988628,40.737161,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 127</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.98612,40.762263,0.0 -73.985648,40.762914,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 128</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.985648,40.762881,0.0 -73.9885021,40.7641364,0.0 -73.9913563,40.7653268,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 128</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.98442,40.72871,0.0 -73.993843,40.732722,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 129</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.99528,40.72717,0.0 -73.99209,40.72561,0.0 -73.991643,40.725437,0.0 -73.990356,40.724901,0.0 -73.988006,40.72391700000001,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 130</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.99234,40.72488,0.0 -73.990817,40.724259,0.0 -73.988457,40.72326700000001,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 133</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.982257,40.736,0.0 -73.983532,40.734243,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 134</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.98449900000001,40.736927,0.0 -73.982246,40.736,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 135</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.93841,40.8534,0.0 -73.93779,40.85547,0.0 -73.9379,40.85567,0.0 -73.93657,40.85738,0.0 -73.93576000000002,40.85872,0.0 -73.93499,40.85939,0.0 -73.93476,40.85945,0.0 -73.93425,40.85935,0.0 -73.9336,40.859574,0.0 -73.933214,40.859736,0.0 -73.93283,40.86,0.0 -73.93259,40.86037,0.0 -73.93246,40.86086,0.0 -73.93243,40.86159,0.0 -73.93254,40.86211,0.0 -73.93276,40.86267,0.0 -73.93276,40.86296,0.0 -73.93265,40.86317,0.0 -73.93247000000001,40.86337,0.0 -73.930972,40.864694,0.0 -73.9309,40.86511000000001,0.0 -73.931175,40.865116,0.0 -73.931208,40.864661,0.0 -73.931336,40.864637,0.0 -73.931508,40.864767,0.0 -73.931422,40.864962,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 136</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9672523,40.8032679,0.0 -73.9586522,40.8151733,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 137</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.96611,40.80479,0.0 -73.963437,40.803658,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 138</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.985292,40.723641,0.0 -73.982953,40.722657,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 139</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.982964,40.722665,0.0 -73.982729,40.722982,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 140</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.98708,40.72516,0.0 -73.991557,40.727056,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 141</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.998402,40.726161,0.0 -74.000387,40.723779,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 142</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.00014000000002,40.72535,0.0 -74.001632,40.726096,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 143</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.00091,40.72574,0.0 -74.004647,40.721356,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 143</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.997759,40.756482,0.0 -73.995968,40.758952,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 144</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.977602,40.746379,0.0 -73.971723,40.743908,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 144</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.971763,40.750492,0.0 -73.975582,40.752117,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 145</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9986169,40.724632500000006,0.0 -73.996988,40.7238845,0.0 -73.9949002,40.7229861,0.0 -73.993306,40.722364,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 146</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9709082,40.793311,0.0 -73.9577759,40.8112761,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 147</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.993735,40.767119,0.0 -73.998327,40.760813,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 148</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.982667,40.727243,0.0 -73.999143,40.734186,0.0 -74.004292,40.733373,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 147</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.979791,40.752166,0.0 -73.970715,40.748314,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 148</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.970927,40.748419,0.0 -73.971248,40.747964,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 149</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.973138,40.748533,0.0 -73.97535800000001,40.749484,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 150</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.976505,40.754962,0.0 -73.97903700000002,40.756051,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 151</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.973461,40.752085,0.0 -73.975113,40.752751,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 152</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.977452,40.749533,0.0 -73.97904,40.750232,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 153</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.979058,40.750216,0.0 -73.977667,40.75215,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 154</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.005206,40.719835,0.0 -74.000282,40.717615,0.0 -73.999455,40.717314,0.0 -73.99861900000002,40.71707,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 155</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.99699,40.7165,0.0 -73.99599,40.71814,0.0 -73.99572,40.71873,0.0 -73.995271,40.719843,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 156</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.993109,40.717892,0.0 -73.993543,40.717026,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 157</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.997696,40.7208512,0.0 -73.994552,40.719551,0.0 -73.994424,40.719429,0.0 -73.994263,40.719307,0.0 -73.991763,40.71855,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 158</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.99731900000002,40.719315,0.0 -73.996838,40.720486,0.0 -73.996312,40.721941,0.0 -73.995743,40.723348,0.0 -73.995323,40.72408,0.0 -73.994937,40.724885,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 159</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.956571,40.778185,0.0 -73.961368,40.780216,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 160</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.96184,40.779567,0.0 -73.957023,40.77756,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 161</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.954463,40.778137,0.0 -73.953964,40.778815,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 162</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.982087,40.770548,0.0 -73.980564,40.769898,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 163</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.982964,40.771718,0.0 -73.982127,40.771393,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 164</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.97599,40.776219,0.0 -73.981633,40.778608,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 165</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.00058,40.757676,0.0 -73.994962,40.755287,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 166</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.002449,40.7551,0.0 -74.001494,40.75649,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 167</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.997089,40.747192,0.0 -74.005672,40.750866,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 168</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.005666,40.750866,0.0 -74.006145,40.750216,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 169</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.006141,40.750216,0.0 -74.000455,40.74781,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 170</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.938292,40.85094,0.0 -73.937795,40.852173,0.0 -73.937559,40.85292,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 171</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.934108,40.859363,0.0 -73.934469,40.858714,0.0 -73.936636,40.855776,0.0 -73.936919,40.855127,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 172</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.936937,40.855111,0.0 -73.93782,40.855435,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 173</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.974902,40.746087,0.0 -73.977177,40.747062,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 174</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.991636,40.72460800000001,0.0 -73.991464,40.724852,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 174</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.954618,40.780801,0.0 -73.959492,40.782865,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 175</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.014315,40.704571,0.0 -74.014991,40.704782,0.0 -74.015635,40.70488,0.0 -74.016901,40.70479,0.0 -74.017146,40.704823,0.0 -74.017394,40.704912,0.0 -74.017523,40.704994,0.0 -74.017662,40.705099,0.0 -74.017791,40.705221,0.0 -74.017909,40.705376,0.0 -74.018016,40.705669,0.0 -74.018016,40.705953,0.0 -74.017791,40.706514,0.0 -74.016665,40.708109,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 176</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.016654,40.708109,0.0 -74.017383,40.708450000000006,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 177</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.017373,40.708466,0.0 -74.01675,40.709312,0.0 -74.016482,40.709808,0.0 -74.01578500000001,40.711581,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 178</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.016364,40.710101,0.0 -74.015474,40.709898,0.0 -74.015012,40.709825,0.0 -74.014615,40.7098,0.0 -74.014465,40.709768,0.0 -74.013113,40.709166,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 179</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.013124,40.70915,0.0 -74.013725,40.707702,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 178</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.96929800000001,40.763576,0.0 -73.972557,40.764893,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 178</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9599,40.782231,0.0 -73.955072,40.780184,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 179</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.965905,40.765364,0.0 -73.969209,40.766745,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 180</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.96751700000002,40.771767,0.0 -73.965951,40.771101,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 181</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.96318,40.769118,0.0 -73.968011,40.771149,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 178</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.001203,40.729153,0.0 -74.00014000000002,40.730421,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 179</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.985948,40.752296,0.0 -73.987364,40.75293,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 179</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.0014278,40.7199243,0.0 -73.99925,40.7189,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 180</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.99925,40.718916,0.0 -73.999443,40.71864,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 182</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.002107,40.715192,0.0 -74.000001,40.717973,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 184</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.001633,40.726104,0.0 -74.003863,40.723421,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 185</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.003874,40.723429,0.0 -74.003017,40.723283,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 178</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9894173,40.7231321,0.0 -73.9939821,40.7142892,0.0 -73.9939178,40.7139333,0.0 -73.9939447,40.7137634,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 179</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.991334,40.715989,0.0 -73.990722,40.71716,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 180</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.989982,40.716924,0.0 -73.990583,40.715777,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 179</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.991334,40.715989,0.0 -73.990722,40.71716,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 180</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.989982,40.716924,0.0 -73.990583,40.715777,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 179</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.999446,40.743989,0.0 -74.005111,40.746412,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 180</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.996292,40.753402,0.0 -73.993435,40.752182,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 179</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.983718,40.760456,0.0 -73.99511200000002,40.765266,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 180</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.996013,40.764015,0.0 -73.993134,40.762812,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 181</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.993156,40.76278,0.0 -73.992684,40.76343,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 182</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.992709,40.76343,0.0 -73.987022,40.761041,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 183</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.939782,40.847231,0.0 -73.940039,40.846541,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 184</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.94005,40.846557,0.0 -73.938473,40.846233,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 179</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.99039100000002,40.719176,0.0 -73.989733,40.720461,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 178</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.99376,40.725633,0.0 -73.992255,40.72521,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 178</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.964449,40.773099,0.0 -73.957411,40.770109,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 178</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.999926,40.726901,0.0 -74.002769,40.728283,0.0 -74.002846,40.728365,0.0 -74.002942,40.728495,0.0 -74.003361,40.728739,0.0 -74.004637,40.730999,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 179</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.004616,40.730999,0.0 -74.005419,40.730779,0.0 -74.006782,40.730934,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 180</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.006762,40.730934,0.0 -74.006676,40.73147,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 181</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.999937,40.726909,0.0 -73.998982,40.728056,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 178</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.00715,40.703757,0.0 -74.008158,40.704668,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 179</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.00408900000001,40.707425,0.0 -74.010215,40.703269,0.0 -74.011524,40.70296,0.0 -74.012232,40.702716,0.0 -74.012836,40.70244,0.0 -74.013777,40.702391,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 180</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.00274200000001,40.707226,0.0 -74.002352,40.706726,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 181</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.00409,40.707417,0.0 -74.004326,40.707832,0.0 -74.005238,40.708938,0.0 -74.005507,40.709117,0.0 -74.009057,40.7108897,0.0 -74.0104614,40.7115238,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 178</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.969983,40.748874,0.0 -73.970507,40.74807,0.0 -73.970497,40.747907,0.0 -73.971709,40.746298,0.0 -73.972578,40.744997,0.0 -73.974026,40.743111,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 178</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.012972,40.707759,0.0 -74.015118,40.708434,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 179</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.01439,40.708222,0.0 -74.014057,40.709109,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 178</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.011933,40.707433,0.0 -74.012972,40.707767,0.0 -74.015109,40.708434,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 179</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.01439,40.708231,0.0 -74.014292,40.708564,0.0 -74.014047,40.709117,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 180</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.00750200000002,40.740957,0.0 -74.007985,40.740275,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 181</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.003134,40.73908000000001,0.0 -74.005902,40.740275,0.0 -74.008779,40.741453,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 182</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.003886,40.738145,0.0 -74.003897,40.737527,0.0 -74.003736,40.73682,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 178</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.978547,40.736885,0.0 -73.980904,40.737876,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 179</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.980925,40.737844,0.0 -73.979984,40.739145,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 180</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.977581,40.738153,0.0 -73.979963,40.739145,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 181</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.977599,40.738169,0.0 -73.9758,40.740608,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 182</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.975778,40.740608,0.0 -73.97816,40.741616,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 227</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9624929,40.8048929,0.0 -73.9652181,40.8060298,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 228</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9639306,40.8030088,0.0 -73.9666772,40.8041782,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 229</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9629543,40.8042594,0.0 -73.9656794,40.805412600000004,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 230</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9600719,40.8081091,0.0 -73.9584374,40.8074266,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 231</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9584374,40.8074266,0.0 -73.9593601,40.806111,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 232</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9593601,40.806111,0.0 -73.9640379,40.8080438,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 234</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9521074,40.808855900000005,0.0 -73.9577759,40.8112761,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 235</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9525795,40.8082387,0.0 -73.952086,40.8089452,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 236</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9540493,40.8088802,0.0 -73.9467752,40.8057862,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 237</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9536201,40.8095136,0.0 -73.95779370000001,40.8037234,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 238</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9582229,40.8039021,0.0 -73.95779370000001,40.8037234,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 239</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9596498,40.8011733,0.0 -73.9582068,40.8031387,0.0 -73.9582229,40.8039021,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 239</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9592206,40.8093268,0.0 -73.9576328,40.8086853,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 240</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.95633460000002,40.80819,0.0 -73.9535129,40.8069962,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 241</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9542317,40.8059811,0.0 -73.9535129,40.8069962,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 242</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9996254,40.7234129,0.0 -73.9986169,40.724632500000006,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 244</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9974046,40.7214533,0.0 -73.9977425,40.7215834,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 245</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9971202,40.7222746,0.0 -73.9974743,40.7219534,0.0 -73.9977425,40.7215834,0.0 -73.9981931,40.7210548,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 246</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9981931,40.7210548,0.0 -74.0014171,40.7225022,0.0 -74.0046036,40.7241934,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 245</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9815474,40.7438431,0.0 -73.9938641,40.7490614,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 246</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9850235,40.7404902,0.0 -73.9826417,40.739486,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 247</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9826417,40.739486,0.0 -73.983157,40.738836,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 248</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9469147,40.8058674,0.0 -73.9455199,40.8077514,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 249</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9866811,40.7666194,0.0 -73.987518,40.7669688,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 250</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9890361,40.7684436,0.0 -73.9885318,40.7691343,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 251</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9885318,40.7691343,0.0 -73.9828777,40.7667372,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 252</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9496613,40.8020667,0.0 -73.9478159,40.8046168,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 253</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9478159,40.8046168,0.0 -73.9486957,40.8049741,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 254</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.0055478,40.7458101,0.0 -74.0079778,40.7468424,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 255</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.0089,40.7425,0.0 -74.00827,40.74543,0.0 -74.0077311,40.7483745,0.0 -74.0079054,40.7489049,0.0 -74.0084861,40.7500235,0.0 -74.008466,40.7506219,0.0 -74.0080154,40.7518492,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 256</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.006685,40.7204206,0.0 -74.0061057,40.7237626,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 257</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.0062237,40.7231202,0.0 -74.0050891,40.7230084,0.0 -74.0048974,40.7229484,0.0 -74.0006394,40.7208516,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 258</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.0011382,40.7416646,0.0 -74.006803,40.7440707,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 259</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9942718,40.7459808,0.0 -73.9881992,40.7434448,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 259</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.0053439,40.7182983,0.0 -74.0066099,40.7188512,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 261</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.0066099,40.7188512,0.0 -74.0056765,40.720071,0.0 -74.0055692,40.7203393,0.0 -74.0052688,40.7205914,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 261</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9582443,40.8106424,0.0 -73.961066,40.8118198,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 262</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9619994,40.8055263,0.0 -73.9648104,40.8066957,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 262</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9933813,40.7190383,0.0 -73.9947814,40.7162978,0.0 -73.9948746,40.7158079,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 263</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9948297,40.7142161,0.0 -73.9906562,40.7145088,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 264</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9937353,40.7167207,0.0 -73.9941698,40.7159279,0.0 -73.9941618,40.7157916,0.0 -73.9942825,40.7155985,0.0 -73.9945668,40.7150577,0.0 -73.9941216,40.714273,0.0 -73.9939447,40.7137634,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 265</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9939447,40.7137634,0.0 -73.9943335,40.713697,0.0 -73.9945829,40.7136875,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 266</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9945829,40.7136875,0.0 -73.9948297,40.7142161,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 267</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9906562,40.7145088,0.0 -73.9896905,40.7142567,0.0 -73.9896262,40.7141185,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 268</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9896262,40.7141185,0.0 -73.9871478,40.7143299,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 269</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9871478,40.7143299,0.0 -73.9871585,40.7148158,0.0 -73.9870352,40.7153596,0.0 -73.9867187,40.7159034,0.0 -73.9858174,40.7176233,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 270</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9858174,40.7176233,0.0 -73.9679003,40.7121505,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 270</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.0049791,40.7416483,0.0 -74.0051508,40.7408679,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 270</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.9574504,40.7769018,0.0 -73.960712,40.7782748,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 272</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-73.963995,40.7737494,0.0 -73.9607549,40.7723844,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 272</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.0053761,40.7217054,0.0 -74.0064275,40.7218029,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 273</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.0061057,40.7237626,0.0 -74.0048075,40.7236324,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 274</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.006685,40.7204206,0.0 -74.0100324,40.7207621,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 275</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.0100324,40.7207621,0.0 -74.0099037,40.7214777,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 276</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.0099037,40.7214777,0.0 -74.0083265,40.7213232,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 277</name>
+			<styleUrl>#line-000000-2-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-74.0083265,40.7213232,0.0 -74.0079403,40.7236975,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Style id='line-000000-2-nodesc-normal'>
+			<LineStyle>
+				<color>ff000000</color>
+				<width>2</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-000000-2-nodesc-highlight'>
+			<LineStyle>
+				<color>ff000000</color>
+				<width>3.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-000000-2-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-000000-2-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-000000-2-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
