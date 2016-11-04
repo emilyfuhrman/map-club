@@ -2,7 +2,7 @@
 
 This guided session explores [QGIS](http://www.qgis.org/en/site/), a free and open source geographic information system that offers powerful tools for data editing, viewing, and analysis. In preparation, please [download](http://www.qgis.org/en/site/forusers/download.html) QGIS and its dependencies. 
 
-This workshop is based on a modified version of the introductory lecture presented for the [Mapping for Architecture, Urbanism and the Humanities](https://github.com/juanfrans-courses/mapping_arch_hum) class at Columbia University.
+The workshop presented for this session is based on a modified version of the introductory lecture presented for the [Mapping for Architecture, Urbanism and the Humanities](https://github.com/juanfrans-courses/mapping_arch_hum) class at Columbia University.
 
 #### Data
 
