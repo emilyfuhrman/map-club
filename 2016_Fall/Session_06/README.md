@@ -17,7 +17,7 @@ To create this map, we will be using the following datasets:
 First you need to open qGIS and add the layers you downloaded:
 * To add *shapefiles* click on the `Add Vector Layer` button. Other types of data will be added using the other buttons, but in this tutorial we will only be using vector data (shapefiles). Other types of data include *rasters*, *csv* (comma separated values), and *postGIS* layers.
 
-![Add Layer](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_06/Images/01_Creating_a_Basic_Map/01_Adding_Layers.png)
+![Add Layer](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_06/Images/01_Adding_Layers.png)
 * Make sure you select the files with the extension `.shp`. Remember that a *shapefile* is actually made up of 5 or 6 individual files with different extensions. Normally, these individual files are the following:
   * .shp - The main file that stores the feature geometry (required).
   * .shx - The index file that stores the index of the feature geometry (required).
@@ -38,10 +38,10 @@ First you need to open qGIS and add the layers you downloaded:
 As you may have seen, qGIS assigns random colors to each of the layers you add. To change the appearance of each layer do the following:
 * First, since we are interested in creating a land use of Manhattan, you should zoom in into this layer. To do this, right-click on the MNMapPLUTO layer and click `Zoom to Layer`.
 
-![Zoom to Layer](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_06/Images/01_Creating_a_Basic_Map/02_Zoom_To_Layers.png)
+![Zoom to Layer](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_06/Images/02_Zoom_To_Layers.png)
 * There are multiple ways of changing the appearance of a layer. The easiest (and simplest) is to double-click on the icon (point, line or polygon) next to the layer name on the layer panel. This brings up the `Style` tab in the `Layer Properties` panel. In there you can change the fill (color), stroke weight and fill (outline) and the size of the icon (if using points or icons).
 
-![Style Tab](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_06/Images/01_Creating_a_Basic_Map/03_Style_Layer_Properties.png)
+![Style Tab](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_06/Images/03_Style_Layer_Properties.png)
 * In this panel change the style for the following layers in the following ways (we will leave the DOITT_SUBWAY and the MNMapPLUTO for the end):
   * hydropol:
     * Border style: No Pen
@@ -57,12 +57,12 @@ As you may have seen, qGIS assigns random colors to each of the layers you add. 
     * Fill: #999999 (HTML notation)
 * To change the appearance of the background, select the `Project` menu, and in there select `Project Properties`. Then, in the `General` tab you can change the `Background color` to #ffffff (HTML notation).
 
-![Project Properties](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_06/Images/01_Creating_a_Basic_Map/04_Project_Properties.png)
+![Project Properties](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_06/Images/04_Project_Properties.png)
 
 Next we need to change the appearance of the MNMapPLUTO layer based on each lot's land use designation. This is called *symbolizing by category*. We will use data stored in the layer's attribute table to assign a symbology (fill and stroke) to each land use category.
 * First, to get an idea of the data that we will use to symbolize, right-click on the MNMapPLUTO layer and select `Open Attribute Table`. The attribute table has all the data that's associated with each of the features. Each line of data corresponds to one feature in the dataset. As you can see, the MNMapPLUTO layer has a lot of data associated with it.
 
-![MNMapPLUTO Attribute Table](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_06/Images/01_Creating_a_Basic_Map/05_Attribute_Table.png)
+![MNMapPLUTO Attribute Table](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_06/Images/05_Attribute_Table.png)
 * Some of the most useful fields are:
   * ZoneDist1 - The main zoning district classification of the lot.
   * BldgClass - A code describing the major use of structures on the tax lot.
@@ -90,7 +90,7 @@ Next we need to change the appearance of the MNMapPLUTO layer based on each lot'
 * To do this, right-click on the MNMapPLUTO layer and select `Properties` and go to the `Style` tab. You will see that at the top of this tab there is a drop-down menu that normally says `Single Symbol` which means that every feature in the layer will be drawn with a the same appearance. To symbolize by category, change that menu to `Categorized`.
 * Under the `Column` option (at the right) click on the little filter symbol (to the left of the `ε` symbol) and choose the `LandUse` filed.
 
-![Categorize by Field](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_06/Images/01_Creating_a_Basic_Map/06_Categorize.png)
+![Categorize by Field](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_06/Images/06_Categorize.png)
 * Finally, click on `Classify` to add all the different values in that field. Once you do this, you will be able to rename each of the values and change their appearance.
 * By double-clicking on the symbol and on the `Legend` value, change the appearance and the name of each value following this key (note that for all of them you should use a `Border style` `Solid Line`, with a `Border Width` of 0.1 and a `Border color` of #4d4d4d (HTML notation)):
   * 01 - One & Two Family Buildings - Fill: 255,255,0 (rgb notation)
@@ -107,7 +107,7 @@ Next we need to change the appearance of the MNMapPLUTO layer based on each lot'
   * For the values that have no `LandUse` value, use #ffffff (HTML notation)
 * It should look something like this:
 
-![Land Use Classification](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_06/Images/01_Creating_a_Basic_Map/07_Land_Use_Classification.png)
+![Land Use Classification](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_06/Images/07_Land_Use_Classification.png)
 * Finally, double-click on the DOITT_SUBWAY icon and adjust it's appearance in the following way:
   * Size: 5
   * Fill: #00aaff
@@ -118,7 +118,7 @@ Next we need to change the appearance of the MNMapPLUTO layer based on each lot'
   * Under `Text style` change the size of the font to 12
   * And in the `Placement` option, change the `Distance` to 3.
 
-![Labels Properties](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_06/Images/01_Creating_a_Basic_Map/08_Labels.png)
+![Labels Properties](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_06/Images/08_Labels.png)
 * Now, none of these values are final. We need to prepare the `Print Composer` first and then adjust the values based on our output format.
 
 First, before creating a `Print Composer` check to see you are working in the right projection. Porjections will be discussed further in the coming weeks, but basically map projections are ways of transforming locations on a sphere (the Earth) to locations on a plane (a 2D map). There are many types of projections and each one of them has a specific purpose and a specific area of relevance. The one typically used for maps of New York is called `NAD_1983_StatePlane_New_York_Long_Island_FIPS_3104_Feet`. Usually a map will take on the projection of the first layer you add to it, but sometimes you need to change the projection or you add a layer with a different projection. To change (or verify) the projection of the map project, go to `Project` `Project Properties` and on the left-hand panel select `CRS` (Coordinate Reference System). The projection we are using should be under `Projected Coordinate Systems` / `Lambert Conformal Conic`; or you can also look for it using the `Filter` option at the top and type in the projection's EPSG number `102718`. Once you've selected the right projection, click `OK`.
@@ -129,11 +129,11 @@ The `Print Composer` is where you will format your map for its final output. Her
 * Once you are in the `Print Composer` you need to add a new map. Think of it as if you had a blank piece of paper and you were adding a window onto the map you've been working on. That window is a link to your `Project` and if you change things in the `Project` those changes will still be reflected in the `Print Composer`.
 * To add a new map, click on the button `Add new map` on the left-hand panel and draw a rectangle on the blank page.
 
-![Add New Map](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_06/Images/01_Creating_a_Basic_Map/09_Add_New_Map.png)
+![Add New Map](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_06/Images/09_Add_New_Map.png)
 * Once you add the map you can adjust its size and position by dragging it from its corners.
 * You might notice that if you change the size of the map it doesn't necessarily update. To avoid this, on the right-hand panel, where it says `Main properties`, click on `Update preview`. Or, you can also click on the drop-down menu where it says `Cache` and change it to `Render` so that it is constantly updating.
 
-![Update Preview](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_06/Images/01_Creating_a_Basic_Map/10_Update_Preview.png)
+![Update Preview](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_06/Images/10_Update_Preview.png)
 * You can also move the content of the map by clicking on the `Move item content` button just above the `Add new map` button.
 * Next, you need to center and zoom in the map on the area you want to focus on. For the purposes of this tutorial, we will zoom into the area around 125th street. To do this, move the content of the map to this area and on the left hand panel, adjust your `Scale` to 15000. Center your map so that you are focusing on this area but also so that you have some space up on the left-hand corner to put the title and the legend.
 * If the text of the subway stations seems too big, you can always go back to the `Project` and change the size of the font in the label. When you return to your `Print Composer` you can update your preview and the changes will be reflected.
@@ -154,6 +154,6 @@ The `Print Composer` is where you will format your map for its final output. Her
 * Finally, to add a title and a 'source' text, click on the `Add new label` button on the left-hand panel and click on the map. Customize these labels by changing their color, size and location.
 * Your final map should look something like this:
 
-![Final Map](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_06/Images/01_Creating_a_Basic_Map/11_Final_Map.png)
+![Final Map](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_06/Images/11_Final_Map.png)
 
 The last step is to export the map as a PDF file. Use the `Export as PDF` button on the top toolbar and save your final map.
