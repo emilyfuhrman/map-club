@@ -34,7 +34,7 @@ _**[Session 04 &mdash; Interactive Mapping with Mapzen](https://github.com/emily
 
 _**[Session 05 &mdash; Dynamic Mapping with OpenLayers](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_05)**_
 
-**[Session 06 &mdash; WORKSHOP &mdash; Introduction to QGIS](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_06)**
+_**[Session 06 &mdash; WORKSHOP &mdash; Introduction to QGIS](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_06)**_
 
 **[Session 07 &mdash; Generating Cartograms with CartoGrid](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_07)**
 
