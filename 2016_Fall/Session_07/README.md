@@ -1,4 +1,4 @@
-# 20161111 &mdash; Generating Cartograms with Tilegrams
+# 20161111 &mdash; Cartogram Hexmaps with Tilegrams
 
 This session focuses on [Tilegrams](https://pitchinteractiveinc.github.io/tilegrams/), a hex-based cartogram generator. You will not be required to run a local server for this session, though you may find it useful to have a text editor on hand for editing data. If you do not already have a favorite one, go ahead and download [Sublime](https://www.sublimetext.com/).
 
