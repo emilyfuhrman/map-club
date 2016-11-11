@@ -1,3 +1,3 @@
-# 20161202 &mdash; WORKSHOP &mdash; D3.js
+# 20161202 &mdash; WORKSHOP (Part II) &mdash; D3.js
 
-This guided session explores the geovisualization capabilities of [D3.js](https://d3js.org/), a JavaScript library for manipulating documents based on data.
+The second session of this two-part workshop explores the mapping and geovisualization capabilities of [D3.js](https://d3js.org/), a JavaScript library for manipulating documents based on data.

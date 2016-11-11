@@ -38,9 +38,9 @@ _**[Session 06 &mdash; WORKSHOP &mdash; Introduction to QGIS](https://github.com
 
 _**[Session 07 &mdash; Cartogram Hexmaps with Tilegrams](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_07)**_
 
-**[Session 08 &mdash; Geospatial Analysis with Turf.js](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_08)**
+**[Session 09 &mdash; WORKSHOP (Part I) &mdash; D3.js](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_08)**
 
-**[Session 09 &mdash; WORKSHOP &mdash; D3.js](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_09)**
+**[Session 09 &mdash; WORKSHOP (Part II) &mdash; D3.js](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_09)**
 
 ![Summer 2016](https://github.com/emilyfuhrman/map-club/blob/master/Assets/Banner_2016_Summer.png)
 
