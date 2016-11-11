@@ -36,7 +36,7 @@ _**[Session 05 &mdash; Dynamic Mapping with OpenLayers](https://github.com/emily
 
 _**[Session 06 &mdash; WORKSHOP &mdash; Introduction to QGIS](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_06)**_
 
-**[Session 07 &mdash; Cartogram Hexmaps with Tilegrams](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_07)**
+_**[Session 07 &mdash; Cartogram Hexmaps with Tilegrams](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_07)**_
 
 **[Session 08 &mdash; Geospatial Analysis with Turf.js](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_08)**
 
