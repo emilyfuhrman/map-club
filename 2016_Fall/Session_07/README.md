@@ -1,9 +1,8 @@
 # 20161111 &mdash; Generating Cartograms with Tilegram
 
-This session focuses on [Tilegram](https://pitchinteractiveinc.github.io/tilegrams/), a hex-based cartogram generator. You will not be required to run a local server for this session, though you may find it useful to have a text editor on hand for editing data. If you do not already have a favorite text editor, go ahead and download [Sublime](https://www.sublimetext.com/).
+This session focuses on [Tilegram](https://pitchinteractiveinc.github.io/tilegrams/), a hex-based cartogram generator. You will not be required to run a local server for this session, though you may find it useful to have a text editor on hand for editing data. If you do not already have a favorite one, go ahead and download [Sublime](https://www.sublimetext.com/).
 
 #### Ideas
-* Explore the built-in functionality of the tool.
 * Customize and export a CSV file in Excel or Google Sheets. Create a cartogram by importing the file into the interface. 
 * Download some [Census data](http://factfinder.census.gov/faces/nav/jsf/pages/community_facts.xhtml?src=bkmk), format and export it in Excel or Google sheets, and upload the data to build a custom map.
 * Export an SVG map and customize it in a vector-based design appication (i.e. Adobe Illustrator or [Inkscape](https://inkscape.org/en/)).
