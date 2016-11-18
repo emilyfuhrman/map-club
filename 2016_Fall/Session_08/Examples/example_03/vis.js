@@ -63,7 +63,7 @@ d3.csv('data.csv',function(data){
 		.enter()
 		.append("circle")								
 		.classed("testNode",true)						
-		.attr("id",function(d){ return d.color; });		
+		.attr("id",function(d){debugger; return d.color; });		
 	circles
 		.attr("cx",function(d,i){						
 			return (i+1)*150;							
