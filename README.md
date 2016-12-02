@@ -40,7 +40,7 @@ _**[Session 07 &mdash; Cartogram Hexmaps with Tilegrams](https://github.com/emil
 
 _**[Session 08 &mdash; WORKSHOP (Part I) &mdash; D3.js](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_08)**_
 
-**[Session 09 &mdash; WORKSHOP (Part II) &mdash; D3.js](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_09)**
+_**[Session 09 &mdash; WORKSHOP (Part II) &mdash; D3.js](https://github.com/emilyfuhrman/map-club/blob/master/2016_Fall/Session_09)**_
 
 ![Summer 2016](https://github.com/emilyfuhrman/map-club/blob/master/Assets/Banner_2016_Summer.png)
 
