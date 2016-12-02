@@ -16,6 +16,7 @@ Examples and working files for this session are available [here](https://github.
 
 #### Resources
 * [D3.js Projections](https://github.com/d3/d3-3.x-api-reference/blob/master/Geo-Projections.md)
+* [More than you ever wanted to know about GeoJSON](http://www.macwright.org/2015/03/23/geojson-second-bite.html)
 
 
 
